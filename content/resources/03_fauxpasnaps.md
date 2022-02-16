@@ -3,7 +3,7 @@ content_type: resource
 description: 'Initially I was hoping to create a video that featured a series of dinner
   napkins, their colorless surface supporting and emphasizing the immaculately pressed
   seams, exuding perfection. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/fcbac00454ff986c1ea982240f01a9c3_03_fauxpasnaps.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/fcbac00454ff986c1ea982240f01a9c3_03_fauxpasnaps.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Initially I was hoping to create a video that featured a series of dinner
@@ -11,6 +11,11 @@ image_metadata:
     seams, exuding perfection.
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: "Drawing of \u2018faux pas dinner napkin\u2019 concept. "
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
 resourcetype: Image
 title: 03_fauxpasnaps.jpg
 uid: fcbac004-54ff-986c-1ea9-82240f01a9c3

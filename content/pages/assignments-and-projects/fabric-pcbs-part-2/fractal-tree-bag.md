@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
+parent_type: CourseSection
 parent_uid: 65b98bff-a576-b7e8-689b-c6366c1e63d3
 title: 'Assignment 3: Fractal Tree Bag'
 uid: 5af02bea-0868-c0fa-845e-79cc65770c1e

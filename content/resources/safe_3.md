@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/f977155cab3a5cdebdb088beee3020d8_safe_3.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/f977155cab3a5cdebdb088beee3020d8_safe_3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 1: USD (Useless Safety Device)'
+parent_type: CourseSection
 resourcetype: Image
 title: safe_3.jpg
 uid: f977155c-ab3a-5cde-bdb0-88beee3020d8

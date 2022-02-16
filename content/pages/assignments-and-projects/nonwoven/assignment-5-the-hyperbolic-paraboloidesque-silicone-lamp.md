@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 5: Nonwoven'
+parent_type: CourseSection
 parent_uid: d8eb9e0f-dc2e-dea8-e428-1018fad1877d
 title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 uid: 07150280-b359-779b-1938-dee9a2f53f99
@@ -24,7 +28,7 @@ _By anonymous student_
 The exploration was an attempt to 'give shape' to an otherwise completely malleable material by using it in conjunction with a slender but rigid armature. The result is a lamp fixture where the silicone canopy / light is given a hyperbolic paraboloid form (and powered) by its acrylic stand.
 
 Click on the first photo to continue.
-{{< image-gallery id="07150280-b359-779b-1938-dee9a2f53f99_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/" >}}
+{{< image-gallery id="07150280-b359-779b-1938-dee9a2f53f99_nanogallery2" baseUrl="/courses/mas-962-special-topics-new-textiles-spring-2010/" >}}
 {{< image-gallery-item href="51fe8b04e82ecd5a29f5d1e5994a073b_jl1.jpg" data-ngdesc="The Silicone Mold, made of laser cut acrylic." text="The Silicone Mold, made of laser cut acrylic." >}}
 {{< image-gallery-item href="d6d5dffcd7202b4cd828caa630852c0d_jl2.jpg" data-ngdesc="Laser-cut conductive fabric, which will be cast into the silicone." text="Laser-cut conductive fabric, which will be cast into the silicone." >}}
 {{< image-gallery-item href="424ed7828d440743f56f2b3583dd3b81_jl3.jpg" data-ngdesc="Soldering surface mound diodes (SMDs) to the conductive fabric." text="Soldering surface mound diodes (SMDs) to the conductive fabric." >}}

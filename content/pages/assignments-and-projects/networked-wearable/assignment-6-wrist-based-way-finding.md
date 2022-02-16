@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 6: Networked Wearable'
+parent_type: CourseSection
 parent_uid: 202ac8dd-885c-dd02-7531-38f0e50235da
 title: 'Assignment 6: Wrist-based Way-finding'
 uid: 77520b74-548a-605c-22bd-5f4919a9b598

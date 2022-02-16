@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/9cb0a6e46d84cd73bbd73d23e25025a5_ATtiny13Dot.png
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/9cb0a6e46d84cd73bbd73d23e25025a5_ATtiny13Dot.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'AVR Programming Tutorial, Part 1: Downloading Programs'
+parent_type: CourseSection
 resourcetype: Image
 title: ATtiny13Dot.png
 uid: 9cb0a6e4-6d84-cd73-bbd7-3d23e25025a5

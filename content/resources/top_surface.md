@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/263929bd60fe2e2438f770027fe36035_top_surface.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/263929bd60fe2e2438f770027fe36035_top_surface.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 5: Posable Surface'
+parent_type: CourseSection
 resourcetype: Image
 title: top_surface.jpg
 uid: 263929bd-60fe-2e24-38f7-70027fe36035

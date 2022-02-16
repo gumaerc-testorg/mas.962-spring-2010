@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/7c3072143b411214cbde78c08dd1d73d_LaserFocusingTool.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/7c3072143b411214cbde78c08dd1d73d_LaserFocusingTool.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Laser Cutter Tutorial
+parent_type: CourseSection
 resourcetype: Image
 title: LaserFocusingTool.jpg
 uid: 7c307214-3b41-1214-cbde-78c08dd1d73d

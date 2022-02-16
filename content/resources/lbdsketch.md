@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/39503cc3d5a9433d4e81a848db27eaf2_lbdsketch.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/39503cc3d5a9433d4e81a848db27eaf2_lbdsketch.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Final Project: Little Black Dress 2.0'
+parent_type: CourseSection
 resourcetype: Image
 title: lbdsketch.jpg
 uid: 39503cc3-d5a9-433d-4e81-a848db27eaf2

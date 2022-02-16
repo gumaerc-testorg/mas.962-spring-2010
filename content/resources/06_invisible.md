@@ -4,7 +4,7 @@ description: 'So in an awkward dinner exchange of spills and smears, the napkins
   slowly reveal pride in human flaw. The napkins'' text is stitched in clear, plastic
   thread, laid against a white background. If lit properly, the video camera wouldn''t
   detect the subtle words on each diner''s neck wear. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/9f65868149973bf2af54beaaea190182_06_invisible.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/9f65868149973bf2af54beaaea190182_06_invisible.jpg
 file_type: image/jpeg
 image_metadata:
   caption: So in an awkward dinner exchange of spills and smears, the napkins would
@@ -14,6 +14,11 @@ image_metadata:
   credit: 'Credit: Photo by Sarah Witt'
   image-alt: Photo of model diner with embroidered napkin tucked into their shirt
     collar, about to spill liquid on the napkin.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 8: Sassy Embroidery'
+parent_type: CourseSection
 resourcetype: Image
 title: 06_invisible.jpg
 uid: 9f658681-4997-3bf2-af54-beaaea190182

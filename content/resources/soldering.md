@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/c7c87f3684b5cc3745e5e7f5339ce8b8_soldering.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/c7c87f3684b5cc3745e5e7f5339ce8b8_soldering.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 3: Fractal Tree Bag'
+parent_type: CourseSection
 resourcetype: Image
 title: soldering.jpg
 uid: c7c87f36-84b5-cc37-45e5-e7f5339ce8b8

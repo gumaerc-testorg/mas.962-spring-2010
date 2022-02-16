@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
+parent_type: CourseSection
 parent_uid: 65b98bff-a576-b7e8-689b-c6366c1e63d3
 title: 'Assignment 3: PCButterfly'
 uid: 1805af5b-ecab-6b00-7d48-946d9bb9cafe

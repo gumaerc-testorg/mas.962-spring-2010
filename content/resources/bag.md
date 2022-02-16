@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/c36d1cfdc342caea5a241f8b81aa48cd_bag.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/c36d1cfdc342caea5a241f8b81aa48cd_bag.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 3: Fractal Tree Bag'
+parent_type: CourseSection
 resourcetype: Image
 title: bag.jpg
 uid: c36d1cfd-c342-caea-5a24-1f8b81aa48cd

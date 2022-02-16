@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/da978b68063b3791e737906aed8fd3cb_working02.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/da978b68063b3791e737906aed8fd3cb_working02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 6: Wrist-based Way-finding'
+parent_type: CourseSection
 resourcetype: Image
 title: working02.jpg
 uid: da978b68-063b-3791-e737-906aed8fd3cb

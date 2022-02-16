@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings, Lectures & Tutorials
+parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'AVR Programming Tutorial, Part 1: Downloading Programs'
 uid: 4bbdee6e-bb42-6142-21cf-13f92a364c47

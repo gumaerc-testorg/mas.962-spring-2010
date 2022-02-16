@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/404ea70e26538d08064838587f6ee780_yarn4.jpg
+file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/404ea70e26538d08064838587f6ee780_yarn4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 4: Conductive Spinning'
+parent_type: CourseSection
 resourcetype: Image
 title: yarn4.jpg
 uid: 404ea70e-2653-8d08-0648-38587f6ee780

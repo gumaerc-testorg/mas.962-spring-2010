@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: 'Assignment 8: Knit, Woven, Embroidery, or Print'
+parent_type: CourseSection
 parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 title: 'Assignment 8: Sassy Embroidery'
 uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
@@ -26,7 +30,7 @@ Next: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and
 I didn't think I'd have such a romance with the embroidery machine. Unable to shake the kitsch, great-aunt image throbbing in my head, it seemed the only solution was to employ just the opposite attitude. Sass, if you will.
 
 Click on the first image to continue...
-{{< image-gallery id="891a99d4-fcaf-19e8-22d2-df7dbe9b21cc_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/mas-962-special-topics-new-textiles-spring-2010/" >}}
+{{< image-gallery id="891a99d4-fcaf-19e8-22d2-df7dbe9b21cc_nanogallery2" baseUrl="/courses/mas-962-special-topics-new-textiles-spring-2010/" >}}
 {{< image-gallery-item href="990e04a4d63f47724699d72002e0f49a_02_filthybig.jpg" data-ngdesc="As one might expect from a visual artist, my primary output consists of visual images. However, writing is one of my favorite, but most neglected, ways to occupy time. And since the embroidery machine can render text perfectly, the projects I produced are all platforms for linguistic devices." text="As one might expect from a visual artist, my primary output consists of visual images. However, writing is one of my favorite, but most neglected, ways to occupy time. And since the embroidery machine can render text perfectly, the projects I produced are all platforms for linguistic devices." >}}
 {{< image-gallery-item href="fcbac00454ff986c1ea982240f01a9c3_03_fauxpasnaps.jpg" data-ngdesc="Initially I was hoping to create a video that featured a series of dinner napkins, their colorless surface supporting and emphasizing the immaculately pressed seams, exuding perfection." text="Initially I was hoping to create a video that featured a series of dinner napkins, their colorless surface supporting and emphasizing the immaculately pressed seams, exuding perfection." >}}
 {{< image-gallery-item href="088f28fe11ae04932cb95a084a9a2d02_04_oops.jpg" data-ngdesc="Of course, dinner napkins dont stay in this state if properly used, fulfilling their role in making visible every error the diner makes in relationship to his plate." text="Of course, dinner napkins dont stay in this state if properly used, fulfilling their role in making visible every error the diner makes in relationship to his plate." >}}
