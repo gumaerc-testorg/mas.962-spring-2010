@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 6: Networked Wearable'
 parent_type: CourseSection
+parent_uid: 202ac8dd-885c-dd02-7531-38f0e50235da
 resourcetype: Image
 title: ArduinoPinMapping.gif
 uid: 857cf971-62c4-7b70-7423-e7d8e5e44c13

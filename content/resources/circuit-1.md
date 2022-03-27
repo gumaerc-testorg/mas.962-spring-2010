@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 3: Fractal Tree Bag'
 parent_type: CourseSection
+parent_uid: 5af02bea-0868-c0fa-845e-79cc65770c1e
 resourcetype: Image
 title: circuit.jpg
 uid: 9aa3c715-0724-3455-bc76-82f47de3c9a6

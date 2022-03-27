@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 parent_type: CourseSection
+parent_uid: 07150280-b359-779b-1938-dee9a2f53f99
 resourcetype: Image
 title: jl7.jpg
 uid: cdfda746-1bba-be5f-1609-6d5aed689eb2

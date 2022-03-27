@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: 'Assignment 7: Little Black Dress 2.0'
 parent_type: CourseSection
+parent_uid: 325c8300-e49b-ffca-daff-60275584f0fc
 resourcetype: Document
 title: MITMAS_962S10_assn7_dress.pdf
 uid: 8475cb73-bb68-d770-6fbf-f94968dee733

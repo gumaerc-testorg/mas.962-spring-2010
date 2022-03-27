@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 7: Tunable Stiffness Materials'
 parent_type: CourseSection
+parent_uid: 4ff1a061-ee49-b42a-4530-6742c237f680
 resourcetype: Image
 title: Nonwoven_dippedwax_Nadia.jpg
 uid: fa9b0099-6e7d-bb43-480b-f4eb865ec455

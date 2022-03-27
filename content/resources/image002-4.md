@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Final Project: Sneaky Slippers'
 parent_type: CourseSection
+parent_uid: 1d37c63e-6e4d-91ff-be65-4633c880458b
 resourcetype: Image
 title: image002.jpg
 uid: 469074a2-843b-1dfc-c30f-77e5227f3509

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 5: Posable Surface'
 parent_type: CourseSection
+parent_uid: 5edba3bc-d722-e600-3a71-61b4af68e278
 resourcetype: Image
 title: top_flat.jpg
 uid: 82ce0fb6-991b-d296-e2e6-103f71b9987e

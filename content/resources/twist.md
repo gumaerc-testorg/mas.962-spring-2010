@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 4: Conductive Vine '
 parent_type: CourseSection
+parent_uid: 27e2601c-ca9e-b8d0-81eb-15fa95de3926
 resourcetype: Image
 title: twist.jpg
 uid: 5399b960-6799-f78b-447c-63c9231cfd22

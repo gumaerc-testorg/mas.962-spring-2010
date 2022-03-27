@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 3: PCButterfly'
 parent_type: CourseSection
+parent_uid: 1805af5b-ecab-6b00-7d48-946d9bb9cafe
 resourcetype: Image
 title: butterfly_circdiag.jpg
 uid: c81fd30e-1f6c-2543-5a19-d63e5aa49e9c

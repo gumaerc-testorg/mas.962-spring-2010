@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings, Lectures & Tutorials
 parent_type: CourseSection
+parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 resourcetype: Document
 title: MITMAS_962S10_lec08_yarn.pdf
 uid: 0d3bff33-c15a-d64f-223f-138fa9a62d9b

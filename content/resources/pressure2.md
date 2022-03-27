@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 3: Fractal Tree Bag'
 parent_type: CourseSection
+parent_uid: 5af02bea-0868-c0fa-845e-79cc65770c1e
 resourcetype: Image
 title: pressure2.jpg
 uid: 43287639-e761-f131-5210-96757e01480d

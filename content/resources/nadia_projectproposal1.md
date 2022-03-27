@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 7: Tunable Stiffness Materials'
 parent_type: CourseSection
+parent_uid: 4ff1a061-ee49-b42a-4530-6742c237f680
 resourcetype: Image
 title: Nadia_projectproposal1.jpg
 uid: 9c062160-0772-86e2-8997-5aac9f523cd4

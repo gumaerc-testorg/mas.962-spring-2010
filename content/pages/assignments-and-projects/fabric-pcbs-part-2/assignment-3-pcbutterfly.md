@@ -47,7 +47,7 @@ We first tested the layout on a breadboard before designing the actual butterfly
 
 The circuit diagram shows the phototransistor at B3, and LEDs connected at B0, B1(PWM lights) B2, B4 (non-PWM) B5 is for reset and is unconnected.
 
-Our code ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly_code.txt))
+Our code ([TXT]({{< baseurl >}}/resources/butterfly_code))
 
 There are two main fabric layers – a bottom layer for the main conductive area of the circuit, and the top layer that supports the ground wire, phototransistor, LEDs and resistors. The design incorporates iron-on adhesive conductive fabric as the substrate for the circuit. The phototransistor, LEDs and resistors are through components that source power through the microcontroller located at the center of the butterfly layout. A wire frame serves as an easily accessible ground wire as well as a structural support, which can be positioned to give the butterfly a more realistic shape.
 

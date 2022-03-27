@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
 parent_type: CourseSection
+parent_uid: 65b98bff-a576-b7e8-689b-c6366c1e63d3
 resourcetype: Image
 title: ATtiny13_CircuitLayout.jpg
 uid: 7337262a-2c19-7a8c-fc43-a788d7604754

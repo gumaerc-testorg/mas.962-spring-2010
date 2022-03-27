@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: 'Assignment 7: Sneaky Slippers'
 parent_type: CourseSection
+parent_uid: 9b09f59f-329e-9e05-bf20-936335d35957
 resourcetype: Document
 title: MITMAS_962S10_assn7_slipr.pdf
 uid: 0edd79d6-b415-ce6e-06ff-bd036e3bdbbd

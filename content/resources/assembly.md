@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 1: USD (Useless Safety Device)'
 parent_type: CourseSection
+parent_uid: fac07c50-fc85-ba7c-d005-d8046af7cac2
 resourcetype: Image
 title: assembly.jpg
 uid: 986580a8-8190-947b-8c93-585c1ee2ce4e

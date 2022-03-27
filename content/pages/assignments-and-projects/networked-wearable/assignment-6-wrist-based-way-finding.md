@@ -70,8 +70,8 @@ Rizal: circuit, soldering, documentation
 Code
 ----
 
-BDR Standalone ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding/bdr_standalone_code.txt))  
-BDR Integrated ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding/bdr_integrated_code.txt))
+BDR Standalone ([TXT]({{< baseurl >}}/resources/bdr_standalone_code))  
+BDR Integrated ([TXT]({{< baseurl >}}/resources/bdr_integrated_code))
 
 {{< tableopen >}}
 {{< tropen >}}

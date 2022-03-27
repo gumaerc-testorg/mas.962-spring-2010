@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Laser Cutter Tutorial
 parent_type: CourseSection
+parent_uid: b8152aef-691c-0825-0ce2-97f34c7b6768
 resourcetype: Other
 title: ATtiny13FabricPCB.ai
 uid: 9900d2d5-4755-6a5c-dd17-60de805b8de4

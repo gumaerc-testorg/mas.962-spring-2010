@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings, Lectures & Tutorials
 parent_type: CourseSection
+parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 resourcetype: Document
 title: MITMAS_962S10_lec08_fiber.pdf
 uid: 8f2f1efc-5399-bd19-cedb-194e568d5c1a

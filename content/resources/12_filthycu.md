@@ -23,6 +23,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
+parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 12_filthycu.jpg
 uid: 37a9ad05-4357-595d-1a1e-f44b8d683487

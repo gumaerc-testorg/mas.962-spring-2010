@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 8: "Our Home" Embroidery Project'
 parent_type: CourseSection
+parent_uid: 3195c5f0-7d93-000d-659f-ac026d394629
 resourcetype: Image
 title: Embroidery_machine_Nadia.jpg
 uid: 56ab9763-98f4-ca45-b156-1bd83024bbec

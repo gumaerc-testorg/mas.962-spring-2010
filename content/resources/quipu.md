@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 4: Digital Quipu '
 parent_type: CourseSection
+parent_uid: 41b42985-b4b1-f26c-1c9f-f4c9e926ac9c
 resourcetype: Image
 title: quipu.jpg
 uid: 4ad70eaf-5374-08fe-0537-f02f40c09b6d

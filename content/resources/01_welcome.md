@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Knit, Woven, Embroidery, or Print'
 parent_type: CourseSection
+parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 resourcetype: Image
 title: 01_welcome.jpg
 uid: 2e3ae2e6-d3a3-6f29-7d06-8fd532b68394

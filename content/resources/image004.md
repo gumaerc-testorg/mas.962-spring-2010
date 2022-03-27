@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 5: Posable Surface'
 parent_type: CourseSection
+parent_uid: 5edba3bc-d722-e600-3a71-61b4af68e278
 resourcetype: Image
 title: image004.jpg
 uid: fa50b2ce-002d-a365-5a48-c1bfc1cf6588
