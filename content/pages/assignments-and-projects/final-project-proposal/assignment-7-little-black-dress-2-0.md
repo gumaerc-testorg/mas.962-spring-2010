@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,24 +10,20 @@ parent_type: CourseSection
 parent_uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
 title: 'Assignment 7: Little Black Dress 2.0'
 uid: 325c8300-e49b-ffca-daff-60275584f0fc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials)
-{{< tdclose >}}
-{{< tdopen >}}
-Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers) »
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+« Previous: {{% resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "student work sample" %}}
+{{< tdclose >}}{{< tdopen >}}
+Next: {{% resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "student work sample" %}} »
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### By Xiao Xiao and Elena Jessop
 
-![Drawing of two people wearing the dress.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0/image002.gif)  
+{{< resource 72db4ea3-03aa-06d5-47dd-2841dbefa89b >}}
 
 Reinventing the Little Black Dress.
 
@@ -33,17 +31,10 @@ Our final project is a reinvention of the iconic "little black dress." We are cr
 
 This textile allows for flexibility of self-representation through personal style. With a push of a button, the wearer can decide how she wants to present herself at the moment. A lower neckline? An open back? A shorter hemline? All of the above? This garment can transform to be appropriate for different contexts and moods, while still remaining that classic "little black dress."
 
-Proposal presentation ([PDF - 1.2MB]({{< baseurl >}}/resources/mitmas_962s10_assn7_dress))
+Proposal presentation ({{% resource_link 8475cb73-bb68-d770-6fbf-f94968dee733 "PDF - 1.2MB" %}})
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials)
-{{< tdclose >}}
-{{< tdopen >}}
-Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers) »
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+« Previous: {{% resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "student work sample" %}}
+{{< tdclose >}}{{< tdopen >}}
+Next: {{% resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "student work sample" %}} »
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
