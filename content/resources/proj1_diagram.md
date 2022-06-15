@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/43773ea5bdc7f84bc5b35a182e37d2b7_proj1_diagram.gif
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/43773ea5bdc7f84bc5b35a182e37d2b7_proj1_diagram.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,4 +16,10 @@ parent_uid: b8f488be-0db7-ec35-0142-4740591230f7
 resourcetype: Image
 title: proj1_diagram.gif
 uid: 43773ea5-bdc7-f84b-c5b3-5a182e37d2b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

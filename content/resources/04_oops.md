@@ -3,7 +3,7 @@ content_type: resource
 description: Of course, dinner napkins don't stay in this state if properly used,
   fulfilling their role in making visible every error the diner makes in relationship
   to his plate.
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/088f28fe11ae04932cb95a084a9a2d02_04_oops.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/088f28fe11ae04932cb95a084a9a2d02_04_oops.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Of course, dinner napkins don't stay in this state if properly used, fulfilling
@@ -21,4 +21,10 @@ parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 04_oops.jpg
 uid: 088f28fe-11ae-0493-2cb9-5a084a9a2d02
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Of course, dinner napkins don't stay in this state if properly used, fulfilling their role in making visible every error the diner makes in relationship to his plate.
+

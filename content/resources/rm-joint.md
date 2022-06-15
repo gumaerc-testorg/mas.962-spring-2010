@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/052dc10e2344ecb49356a65521422006_rm-joint.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/052dc10e2344ecb49356a65521422006_rm-joint.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 9b8eb804-4d19-7104-6776-2a49da5972ee
 resourcetype: Image
 title: rm-joint.jpg
 uid: 052dc10e-2344-ecb4-9356-a65521422006
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

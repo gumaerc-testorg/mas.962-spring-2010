@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/a945a472028b50515464738b3cad398f_lamp_1.gif
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/a945a472028b50515464738b3cad398f_lamp_1.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,4 +16,10 @@ parent_uid: b8f488be-0db7-ec35-0142-4740591230f7
 resourcetype: Image
 title: lamp_1.gif
 uid: a945a472-028b-5051-5464-738b3cad398f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

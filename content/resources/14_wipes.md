@@ -2,7 +2,7 @@
 content_type: resource
 description: I feel bad for any audience member in this situation, really. I could
   go on about the concept behind this one...
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/170823f02b7c9822cd04ad8f484524e9_14_wipes.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/170823f02b7c9822cd04ad8f484524e9_14_wipes.jpg
 file_type: image/jpeg
 image_metadata:
   caption: I feel bad for any audience member in this situation, really. I could go
@@ -19,4 +19,10 @@ parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 14_wipes.jpg
 uid: 170823f0-2b7c-9822-cd04-ad8f484524e9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+I feel bad for any audience member in this situation, really. I could go on about the concept behind this one...
+

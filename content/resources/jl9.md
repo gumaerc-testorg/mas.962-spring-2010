@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Initial test success with alligator clips. '
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/ffc88f9f4b7443d37baa621ef78ba8d9_jl9.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/ffc88f9f4b7443d37baa621ef78ba8d9_jl9.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Initial test success with alligator clips.
@@ -17,4 +17,10 @@ parent_uid: 07150280-b359-779b-1938-dee9a2f53f99
 resourcetype: Image
 title: jl9.jpg
 uid: ffc88f9f-4b74-43d3-7baa-621ef78ba8d9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Initial test success with alligator clips. 
+

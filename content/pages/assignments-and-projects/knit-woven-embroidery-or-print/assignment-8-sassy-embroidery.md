@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,15 +9,19 @@ parent_type: CourseSection
 parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 title: 'Assignment 8: Sassy Embroidery'
 uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project)
+« Previous: {{% resource_link 3195c5f0-7d93-000d-659f-ac026d394629 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) »
+Next: Return to {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8 description" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -25,7 +30,7 @@ Next: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and
 
 ### By Sarah Witt
 
-![Photo of fabric embroidered with the word ‘Welcome’ in a Helvetica-style font. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/knit-woven-embroidery-or-print/01_welcome.jpg)
+{{< resource "2e3ae2e6-d3a3-6f29-7d06-8fd532b68394" >}}
 
 I didn't think I'd have such a romance with the embroidery machine. Unable to shake the kitsch, great-aunt image throbbing in my head, it seemed the only solution was to employ just the opposite attitude. Sass, if you will.
 

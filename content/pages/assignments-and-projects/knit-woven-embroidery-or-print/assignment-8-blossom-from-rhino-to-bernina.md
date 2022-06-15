@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,15 +9,19 @@ parent_type: CourseSection
 parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 title: 'Assignment 8: Blossom: From Rhino to Bernina'
 uid: 6326c223-46e3-e782-b580-37758deb8ac5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print)
+« Previous: Return to {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project) »
+Next: {{% resource_link 3195c5f0-7d93-000d-659f-ac026d394629 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -25,7 +30,7 @@ Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-
 
 _By Rizal Muslimin_
 
-![Diagram showing the 3-stage progression of an embroidery design from RhinoScript software to DRAWings software to photos of its fabrication on an embroidery machine.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina/bernina1.jpg)
+{{< resource "9e4e85c6-ec88-e6f9-9274-a9b799cef366" >}}
 
 Workflow from RhinoScript to DRAWings to the Bernina embroidery machine.
 
@@ -58,17 +63,17 @@ As expected, I made mistakes. First, the scaling issues. It turns out what you s
 
 After the pattern was converted to \*.AI files, all the algorithmic logic is also gone. As a result, the machine stitches the patterns following the way Illustrator converts the file from Rhino. It would be super interesting if Bernina can generate the original logic.
 
-![Two photos of fabric embroidered with the blossoms design.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina/bernina2.jpg)
+{{< resource "a37c5109-8f0d-eb6f-dadc-4f747718ba30" >}}
 
 Blossoms as produced on the Bernina machine.
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to [Assignment 8 description]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print)
+« Previous: Return to {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-201cour-home201d-embroidery-project) »
+Next: {{% resource_link 3195c5f0-7d93-000d-659f-ac026d394629 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

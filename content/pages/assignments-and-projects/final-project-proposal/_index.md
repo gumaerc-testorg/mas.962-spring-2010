@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments and Final Project
@@ -7,15 +8,19 @@ parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 7: Final Project Proposal'
 uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [Assignment 6: Networked Wearable]({{< baseurl >}}/pages/assignments-and-projects/networked-wearable)
+« Previous: {{% resource_link 202ac8dd-885c-dd02-7531-38f0e50235da "Assignment 6: Networked Wearable" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [Assignment 8: Knit, Woven, Embroidery, or Print]({{< baseurl >}}/pages/assignments-and-projects/knit-woven-embroidery-or-print) »
+Next: {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8: Knit, Woven, Embroidery, or Print" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,8 +48,8 @@ Sample Student Work
 
 Sample work is presented courtesy of the students and used with permission.
 
-[Tunable Stiffness Structures]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials)
+{{% resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "Tunable Stiffness Structures" %}}
 
-[Little Black Dress 2.0](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0)
+{{% resource_link 325c8300-e49b-ffca-daff-60275584f0fc "Little Black Dress 2.0" %}}
 
-[Sneaky Slippers]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers)
+{{% resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "Sneaky Slippers" %}}

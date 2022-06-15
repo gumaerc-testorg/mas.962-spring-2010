@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/fabcdcf6dfbf00b0a3e5e9f945ceac94_AVRCodeRegions.gif
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/fabcdcf6dfbf00b0a3e5e9f945ceac94_AVRCodeRegions.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: a860002e-582c-fa35-4e45-5b5e787595e0
 resourcetype: Image
 title: AVRCodeRegions.gif
 uid: fabcdcf6-dfbf-00b0-a3e5-e9f945ceac94
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

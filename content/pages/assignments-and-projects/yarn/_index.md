@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments and Final Project
@@ -7,15 +8,19 @@ parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 4: Yarn'
 uid: 89220475-f26b-95a1-2be5-4f3479ca391a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [Assignment 3: "Hello World" Fabric PCBs, Part 2]({{< baseurl >}}/pages/assignments-and-projects/fabric-pcbs-part-2)
+« Previous: {{% resource_link 65b98bff-a576-b7e8-689b-c6366c1e63d3 "Assignment 3: \"Hello World\" Fabric PCBs, Part 2" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [Assignment 5: Nonwoven]({{< baseurl >}}/pages/assignments-and-projects/nonwoven) »
+Next: {{% resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5: Nonwoven" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,8 +55,8 @@ Sample Student Work
 
 These samples are presented courtesy of the students and used with permission.
 
-[Conductive Spinning]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-spinning)
+{{% resource_link 837de706-f282-d1c9-dae9-a23bbf743ca2 "Conductive Spinning" %}}
 
-[Conductive Vine Yarn]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-conductive-vine)
+{{% resource_link 27e2601c-ca9e-b8d0-81eb-15fa95de3926 "Conductive Vine Yarn" %}}
 
-[Digital Quipu]({{< baseurl >}}/pages/assignments-and-projects/yarn/assignment-4-digital-quipu)
+{{% resource_link 41b42985-b4b1-f26c-1c9f-f4c9e926ac9c "Digital Quipu" %}}

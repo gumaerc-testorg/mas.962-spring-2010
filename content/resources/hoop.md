@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/18ccddcc60eaf36034dc22e0f00c73e5_hoop.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/18ccddcc60eaf36034dc22e0f00c73e5_hoop.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: dac7dbe9-bb2e-33c6-6027-a326888523c0
 resourcetype: Image
 title: hoop.jpg
 uid: 18ccddcc-60ea-f360-34dc-22e0f00c73e5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

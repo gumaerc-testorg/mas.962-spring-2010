@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Assignment 8: Blossom: From Rhino to Bernina'

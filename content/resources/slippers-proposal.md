@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/16e6afa4438abbf1ed9e20bde3fdb8de_slippers-proposal.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/16e6afa4438abbf1ed9e20bde3fdb8de_slippers-proposal.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,10 @@ parent_uid: 1d37c63e-6e4d-91ff-be65-4633c880458b
 resourcetype: Image
 title: slippers-proposal.jpg
 uid: 16e6afa4-438a-bbf1-ed9e-20bde3fdb8de
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

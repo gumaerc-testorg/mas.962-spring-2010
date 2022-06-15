@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics along with the lecture
+  slides, tutorials, readings, and references used for each session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings, Lectures & Tutorials
 uid: e974bd1a-9897-6b46-896a-13de54082f58
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Lectures and Readings
@@ -46,7 +52,7 @@ Introduction
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mitmas_962s10_lec01))
+Slides ({{% resource_link 715d4a03-480f-f6d6-1005-bd7fd2bbd879 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -69,7 +75,7 @@ Conductive textiles
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitmas_962s10_lec02))
+Slides ({{% resource_link 21f03b9c-bf35-14d3-6e05-99e73ea03ec4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -92,7 +98,7 @@ Techniques: sensor design
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 10.3MB]({{< baseurl >}}/resources/mitmas_962s10_lec03))(Courtesy of Hannah Perner-Wilson. Used with permission.
+Slides ({{% resource_link d0570e4b-d9dd-1f64-86dd-fded9732a967 "PDF - 10.3MB" %}})(Courtesy of Hannah Perner-Wilson. Used with permission.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -119,10 +125,10 @@ Fabric PCBs, part 1
 
 {{< tdclose >}}
 {{< tdopen >}}
-Fabric PCB tutorial ([PDF]({{< baseurl >}}/resources/mitmas_962s10_tut04_fabpcb))
+Fabric PCB tutorial ({{% resource_link 30216b3e-7224-0908-86de-3e5fa34ac744 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Buechley, L., and Eisenberg, M. "Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-textile Craft." _Journal of Personal and Ubiquitous Computing_, 13, no. 2 (2009): 133-150. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://hlt.media.mit.edu/publications/buechley_PUC_07.pdf))
+Buechley, L., and Eisenberg, M. "Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-textile Craft." _Journal of Personal and Ubiquitous Computing_, 13, no. 2 (2009): 133-150. ([PDF](http://hlt.media.mit.edu/publications/buechley_PUC_07.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,11 +167,11 @@ Fabric PCBs, part 2
 {{< tdopen >}}
 
 
-[Laser cutter tutorial]({{< baseurl >}}/pages/readings-lectures-tutorials/tut06_laser)
+{{% resource_link b8152aef-691c-0825-0ce2-97f34c7b6768 "Laser cutter tutorial" %}}
 
-[AVR programming 1]({{< baseurl >}}/pages/readings-lectures-tutorials/tut06_avr1)
+{{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR programming 1" %}}
 
-[AVR programming 2]({{< baseurl >}}/pages/readings-lectures-tutorials/tut06_avr2)
+{{% resource_link a860002e-582c-fa35-4e45-5b5e787595e0 "AVR programming 2" %}}
 
 
 {{< tdclose >}}
@@ -209,9 +215,9 @@ Fibers and yarns
 {{< tdopen >}}
 
 
-Fiber slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitmas_962s10_lec08_fiber))
+Fiber slides ({{% resource_link 8f2f1efc-5399-bd19-cedb-194e568d5c1a "PDF" %}})
 
-Yarn slides ([PDF]({{< baseurl >}}/resources/mitmas_962s10_lec08_yarn))
+Yarn slides ({{% resource_link 0d3bff33-c15a-d64f-223f-138fa9a62d9b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -398,9 +404,9 @@ Embroidery and printing
 {{< tdopen >}}
 
 
-[Embroidery design software]({{< baseurl >}}/pages/readings-lectures-tutorials/tut17_embr1)
+{{% resource_link a96cb683-a878-2da1-c83c-a2fbd91d9e4a "Embroidery design software" %}}
 
-[Embroidery machine]({{< baseurl >}}/pages/readings-lectures-tutorials/tut17_embr2)
+{{% resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery machine" %}}
 
 
 {{< tdclose >}}
@@ -580,7 +586,7 @@ princesteve. "Flat pattern to 3D." October 31, 2006. YouTube. Accessed October 5
 safakmakina. "Band knife cutting machine 2." January 31, 2008. YouTube. Access October 5, 2010.  
 [www.youtube.com/watch?v=OoHwkHWKg5w](http://www.youtube.com/watch?v=OoHwkHWKg5w)
 
-Garmento.org. "Origins of the sewing machine - a time line." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://garmenco.org/mg311/History%20of%20the%20Sewing%20Machine.pdf))
+Garmento.org. "Origins of the sewing machine - a time line." ([PDF](http://garmenco.org/mg311/History%20of%20the%20Sewing%20Machine.pdf))
 
 Pattern making software
 

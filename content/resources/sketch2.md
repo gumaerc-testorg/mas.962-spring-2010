@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/10109fd76e7900f967035fc1392e4ad0_sketch2.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/10109fd76e7900f967035fc1392e4ad0_sketch2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,8 @@ parent_uid: fac07c50-fc85-ba7c-d005-d8046af7cac2
 resourcetype: Image
 title: sketch2.jpg
 uid: 10109fd7-6e79-00f9-6703-5fc1392e4ad0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

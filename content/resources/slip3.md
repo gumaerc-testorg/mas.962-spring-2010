@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/37b9510ce7e20c93fb05c6d29fd8a47f_slip3.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/37b9510ce7e20c93fb05c6d29fd8a47f_slip3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,10 @@ parent_uid: 1d37c63e-6e4d-91ff-be65-4633c880458b
 resourcetype: Image
 title: slip3.jpg
 uid: 37b9510c-e7e2-0c93-fb05-c6d29fd8a47f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

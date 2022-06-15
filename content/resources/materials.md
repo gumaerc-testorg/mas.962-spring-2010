@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/fd393ecc51219a9128f74eeca8291942_materials.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/fd393ecc51219a9128f74eeca8291942_materials.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,8 @@ parent_uid: 27e2601c-ca9e-b8d0-81eb-15fa95de3926
 resourcetype: Image
 title: materials.jpg
 uid: fd393ecc-5121-9a91-28f7-4eeca8291942
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

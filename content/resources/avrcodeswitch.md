@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/e7a9469f78163eeec287c54d3ca585e0_AVRCodeSwitch.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/e7a9469f78163eeec287c54d3ca585e0_AVRCodeSwitch.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: a860002e-582c-fa35-4e45-5b5e787595e0
 resourcetype: Image
 title: AVRCodeSwitch.jpg
 uid: e7a9469f-7816-3eee-c287-c54d3ca585e0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/263929bd60fe2e2438f770027fe36035_top_surface.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/263929bd60fe2e2438f770027fe36035_top_surface.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,10 @@ parent_uid: 5edba3bc-d722-e600-3a71-61b4af68e278
 resourcetype: Image
 title: top_surface.jpg
 uid: 263929bd-60fe-2e24-38f7-70027fe36035
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

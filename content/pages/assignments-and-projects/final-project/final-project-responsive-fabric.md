@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,15 +9,19 @@ parent_type: CourseSection
 parent_uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
 title: 'Final Project: Responsive Fabric'
 uid: 9b8eb804-4d19-7104-6776-2a49da5972ee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0)
+« Previous: {{% resource_link ac818d6c-563d-f45a-f35a-abd7ec170986 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-sneaky-slippers) »
+Next: {{% resource_link 1d37c63e-6e4d-91ff-be65-4633c880458b "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +42,7 @@ So, my goal in this final project is to understand how to connect the smart mate
 Component
 ---------
 
-![Three photos showing the components on the fabric.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-responsive-fabric/rm-component.jpg)
+{{< resource "6cb9a243-9199-4871-9bd0-96e1bb76b664" >}}
 
 Components of the responsive fabric: transistors, resistors, nitinol wire, and a LilyPad Arduino.
 
@@ -46,7 +51,7 @@ I used Lilypad Arduino 328 as the main board to read the program, and attached t
 Scheme
 ------
 
-![Three layout schematic views and a top-view photo of the assembled fabric.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-responsive-fabric/rm-skp.jpg)
+{{< resource "36d60ae4-794a-17a7-e04e-ab253edd1457" >}}
 
 Designing the responsive fabric layout with Google SketchUp.
 
@@ -62,7 +67,7 @@ With this technique, we can get a sense of the scale of how the final product wi
 Connection
 ----------
 
-![Four photos: (1) Iron from zelt to LilyPad; (2) crimped bead between zelt and spiral nitinol wire; (3) solder from zelt to electronics pin; and (4) iron between two pieces of zelt.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-responsive-fabric/rm-joint.jpg)
+{{< resource "052dc10e-2344-ecb4-9356-a65521422006" >}}
 
 Four types of connections used in the responsive fabric.
 
@@ -73,7 +78,7 @@ Procedure
 
 The goal of the procedure is to have the flaps move as the mouse position is over the dot on the shutter controller (see the screen). The procedure is the following: on the Shutter Controller, IF the mouse position is over the dot THEN the processing will send information (i) to the arduino. In the arduino, IF it’s receiving the information (i), THEN the arduino told the mainboard to turn on the PIN (HIGH). In the circuit, IF that PIN on the mainboard turns on, THEN the transistor will let the current feds the nitinol connected to that PIN so it will contract and pull the flap up.
 
-![Diagram showing the fabric connected via wire to a laptop, which is running a shutter controller program.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-responsive-fabric/rm-procedure.jpg)
+{{< resource "6f3b0ed7-d146-1fc2-da74-c761df6a5441" >}}
 
 Responsive fabric system diagram including laptop control.
 
@@ -90,10 +95,10 @@ Many thanks to Leah for the guidance and troubleshooting the code and the circui
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0)
+« Previous: {{% resource_link ac818d6c-563d-f45a-f35a-abd7ec170986 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/final-project/final-project-sneaky-slippers) »
+Next: {{% resource_link 1d37c63e-6e4d-91ff-be65-4633c880458b "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

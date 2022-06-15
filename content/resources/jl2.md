@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Laser-cut conductive fabric, which will be cast into the silicone. '
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/d6d5dffcd7202b4cd828caa630852c0d_jl2.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/d6d5dffcd7202b4cd828caa630852c0d_jl2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Laser-cut conductive fabric, which will be cast into the silicone.
@@ -16,4 +16,10 @@ parent_uid: 07150280-b359-779b-1938-dee9a2f53f99
 resourcetype: Image
 title: jl2.jpg
 uid: d6d5dffc-d720-2b4c-d828-caa630852c0d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Laser-cut conductive fabric, which will be cast into the silicone. 
+

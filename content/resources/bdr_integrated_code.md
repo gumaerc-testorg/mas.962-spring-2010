@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/4cb0c88210ec3230fcf235f8e2292b50_bdr_integrated_code.txt
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/4cb0c88210ec3230fcf235f8e2292b50_bdr_integrated_code.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments

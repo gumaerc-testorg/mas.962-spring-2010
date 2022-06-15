@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/bc6314501dd47e4d9b28b98752589787_AVRCode.gif
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/bc6314501dd47e4d9b28b98752589787_AVRCode.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: a860002e-582c-fa35-4e45-5b5e787595e0
 resourcetype: Image
 title: AVRCode.gif
 uid: bc631450-1dd4-7e4d-9b28-b98752589787
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

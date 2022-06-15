@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/4b62a5012cab1cf807e3f2953f14ec42_ATtiny13Dot.gif
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/4b62a5012cab1cf807e3f2953f14ec42_ATtiny13Dot.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 4bbdee6e-bb42-6142-21cf-13f92a364c47
 resourcetype: Image
 title: ATtiny13Dot.gif
 uid: 4b62a501-2cab-1cf8-07e3-f2953f14ec42
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

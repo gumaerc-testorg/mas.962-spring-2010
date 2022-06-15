@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'And thought I''d like to be one. '
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/aee7f510d537631eae58c94d81820859_11_peoplemat.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/aee7f510d537631eae58c94d81820859_11_peoplemat.jpg
 file_type: image/jpeg
 image_metadata:
   caption: And thought I'd like to be one.
@@ -17,4 +17,10 @@ parent_uid: 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc
 resourcetype: Image
 title: 11_peoplemat.jpg
 uid: aee7f510-d537-631e-ae58-c94d81820859
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+And thought I'd like to be one. 
+

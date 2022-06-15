@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,15 +9,19 @@ parent_type: CourseSection
 parent_uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
 title: 'Assignment 7: Tunable Stiffness Materials'
 uid: 4ff1a061-ee49-b42a-4530-6742c237f680
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal)
+« Previous: Return to {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) »
+Next: {{% resource_link 325c8300-e49b-ffca-daff-60275584f0fc "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,7 +40,7 @@ My research has been focused on developing novel tunable stiffness materials for
 
 The images below show some of the work I have been doing in this area.
 
-![Two images: (1) demonstration of a 10mm diameter wax-filled polyurethane beam, which bends under loading when heated by a copper wire for about 70 seconds; (2) a pair of 3D-printed grid structures, in which one that’s coated in wax holds a bent shape, and the uncoated version is squashed flat by a metal wrench.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials/Nadia_projectproposal1.jpg)
+{{< resource "9c062160-0772-86e2-8997-5aac9f523cd4" >}}
 
 Recent work in tunable stiffness structures.
 
@@ -44,7 +49,7 @@ Project Proposal
 
 My past work has involved working with commercial and 3D-printed foams only; therefore, I have been limited in how the heating elements for melting the wax are integrated. Ideally, I would like to have the heating elements integrated into the passive scaffold material. For the nonwoven class assignment, I explored molding silicone as a manufacturing method that allows me to directly mold heating elements into the silicone struts. The images below are from the nonwoven assignment.
 
-![Two images of a square piece of flexible silcone containing a pattern of small square holes.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-tunable-stiffness-materials/Nonwoven_dippedwax_Nadia.jpg)
+{{< resource "fa9b0099-6e7d-bb43-480b-f4eb865ec455" >}}
 
 Examples of a cast silicone grid, from work on the Nonwoven assignment.
 
@@ -59,10 +64,10 @@ Timeline
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to [Assignment 7 description]({{< baseurl >}}/pages/assignments-and-projects/final-project-proposal)
+« Previous: Return to {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0) »
+Next: {{% resource_link 325c8300-e49b-ffca-daff-60275584f0fc "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

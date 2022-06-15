@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,15 +9,19 @@ parent_type: CourseSection
 parent_uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
 title: 'Final Project: Tunable Stiffness Structures'
 uid: 2ef710c0-7770-3f67-93ac-542bcc7dbcc7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project)
+« Previous: Return to {{% resource_link b1811d9e-a2ef-f6c0-c98c-0155bac8d761 "Assignment 9 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) »
+Next: {{% resource_link ac818d6c-563d-f45a-f35a-abd7ec170986 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -25,7 +30,7 @@ Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-top
 
 ### By Nadia Cheng
 
-![Banner with text over images, “Nadia’s Final Project: Tunable Stiffness Structures”](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_title_Nadia.jpg)
+{{< resource "518ad74e-4902-2ce5-dddf-08db41d3151e" >}}
 
 Motivation & Overview
 ---------------------
@@ -56,7 +61,7 @@ Having previously only used solid core metal wires as heating elements, I wanted
 
 Because I didn't have much information about the the electrical or thermal properties of the yarn, I used thermal camera images to determine how hot the yarn would get over time depending on how much current I put through it. The images below show a heating and cooling cycle (1 minute power on, 1 minute power off) of a 4" piece of a stainless steel yarn that was approximately 0.24 mm in diameter. I stretched out the yarn along a table and hooked it up to a power supply, specifying 1 amp as the output current.
 
-![Sequence of 12 images: 6 images for heating up, 0 seconds to 55 seconds, showing the wire gradually glowing more intensely; and then 6 images for coolling down, showing the wire gradually losing its glow from 65 seconds to 120 seconds.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_steelyarncycle_Nadia.jpg)
+{{< resource "17222ae4-32f1-4905-1c12-90e0bf07ecf1" >}}
 
 Thermal camera images of a 4" piece of a stainless steel yarn (approximately 0.24 mm in diameter) going through a heating and cooling cycle (1 minute power on, 1 minute power off).
 
@@ -64,7 +69,7 @@ Notice how the temperature rises from room temperature to about 70 deg. Celsius 
 
 In addition to testing a single piece of yarn, I also wanted to characterize the thermal properties of a piece of yarn embedded in silicone, as I planned to embed the yarn in cast silicone structures. As can be seen in the images below, the heat does not spread quickly within the silicone disc (roughly 2 mm thick); this makes sense because silicone is thermally insulating. Also, the yarn here reaches about 90 deg. Celsius after one minute of applying 1 amp through it. Compared to the temperatures shown in the images above, this suggests that the electrical properties of the yarn are not as consistent as those of a solid core wire.
 
-![Photo of wire through a silicone disk, and sequence of 5 images showing the wire glowing with increasing intensity from 0 seconds to 55 seconds.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_steelyarndisc_Nadia.jpg)
+{{< resource "d395800a-8faf-855b-6974-cf2941572f7e" >}}
 
 Thermal camera images of steel yarn embedded in a silicone disc.
 
@@ -77,7 +82,7 @@ This section describes three main focuses: 1) casting silicone structures with e
 
 Silicone was selected because it can withstand high temperatures. In the 'nonwoven' class assignment, I cast a 2D grid made out of silicone. Because that project was quite successful, I thought that making new samples with embedded heating elements would be simple. The images below show the silicone-molding manufacturing process that I used: 1) laser cut positive acrylic molds, 2) place acrylic molds onto a vinyl adhesive backing and pour a curable polyurethane into the acrylic molds to make a flexible, reusable negative mold, 3) remove cured molds from vinyl backing, 4) remove polyurethane molds from acrylic molds, and 5) prepare polyurethane molds for casting silicone by lining and taping down steel yarn for embedded heating elements.
 
-![Sequence of 5 steps to produce a square silicone stucture, from positive mold to final silicone.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_PUmolds_Nadia.jpg)
+{{< resource "207eba91-14fb-9c8d-7f37-c57bd7f31046" >}}
 
 The silicone-moulding manufacturing process.
 
@@ -85,19 +90,19 @@ To my great disappointment, the silicone would not cure properly in the polyuret
 
 Not knowing what the issue was, I decided to make other types of negative molds, shown below. In addition to 3D printed molds and wax, I also tried using clay and a power-based molding material. As with the polyurethane, the silicone did not cure properly in the 3D-printed molds (most likely due to an adverse chemical reaction with a glossy residue on the printed materials), or the power-based mold. The wax molds were too difficult to make because I couldn't remove them from the acrylic molds, and the clay was difficult to work with.
 
-![Two photos: three 3D-printed molds with varying patterns, and a wax mold.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_othermolds_Nadia.jpg)
+{{< resource "46cb24d8-29dc-71bc-193d-60388fd1232e" >}}
 
 Samples of 3D-printed molds and wax molds.
 
 I ended up salvaging the cast silicone from multiple polyurethane molds; I had to wash and pat down the silicone until it was no longer too slimy (for lack of a better word) to work with. In addition to trying multiple manufacturing processes (which was not originally intended), I also cast silicone grids with triangle patterns, as they resemble common folding patterns. I cast grids with different sized triangles (shown below, with no heating elements) to experiment with structures with different stiffnesses. For example, my goal was to create a 2D structure that could remain stiff with the rigid wax coating but could deform under its own weight when heating elements were activated.
 
-![Three photos of silicone grids: set of six patterns; three uncoated silicone grids curled around a wooden dowel; and three wax-coated grids showing their stiffness. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_gridgeometry_Nadia.jpg)
+{{< resource "a9793577-e0aa-d0e4-67e3-b2501df93751" >}}
 
 More samples of cast silicone grids with varying patterns.
 
 The images below show cast silicone grids with embedded steel yarn as heating elements.
 
-![Two photos of the silicone grid with several thin wires coming out of the edges. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_siliconesteel_Nadia.jpg)
+{{< resource "d21e5c70-2db2-5266-de88-d01371833ead" >}}
 
 Cast silicone grids with embedded steel yarn as heating elements.
 
@@ -115,7 +120,7 @@ I think this experiment was not completely successful for various reasons. For o
 
 In addition to casting non-traditional textiles, I thought it would also be interesting to integrate the steel yarn into more traditional fabrics. It was especially convenient to have the steel yarn because I could easily stitch them into the materials via sewing. The images below show three existing textiles with the steel yarn stitched into them. For the crocheted wool and the muslin, the images show both uncoated and wax-coated samples.
 
-![ Photos of steel yarn in crocheted wool, muslin, and plastic coated string mesh. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_textiles_Nadia.jpg)
+{{< resource "7eb3c6ac-b090-ae8a-0881-85550612149e" >}}
 
 Integrating steel yarn heating elements into fabrics.
 
@@ -131,7 +136,7 @@ Tunable Stiffness Structures: muslin in wax.
 
 If using traditional textiles as structural elements proved to be successful, then making a textile out of something like the stainless steel yarn should also yield decent results. However, the primary challenge in working with the stainless steel yarn is that it is not electrically insulated, so the electrical paths would have to be carefully constructed in a complex structure like a textile. The images below show some simple configurations in which the steel yarn might be laid out in to create a 2D network. Rather than electrically insulating all exposed surfaces of the steel yarn, I put a node of silicone at each point where two pieces of the steel yarn intersected each other; the silicone electrically isolated intersecting paths. The rightmost images show the extreme case, in which a single layer of silicone was cast between orthogonal steel yarn paths.
 
-![Photos showing several lengths of steel yarn laid out in a grid, with silicone (a) just on the crossing points and (b) the entire structure in a single layer of silicone.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_steeltextile_Nadia.jpg)
+{{< resource "6eb39531-c538-79dd-6813-6c4bb35ab8ac" >}}
 
 Creating a 2D heating element network from a grid of steel yarn.
 
@@ -146,7 +151,7 @@ Tunable Stiffness Structures: steel yarn in wax.
 
 Below is a 3D unit cell of a simple lattice made out of flexible, open-cell polyurethane foam. Each strut is a piece of foam with a piece of stainless steel yarn stitched through it so that each strut can be individually thermally activated.
 
-![Photo of a cube made of 12 foam “edges,” with wires running through the foam pieces; and a U-shaped piece of foam with wire running through it.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-tunable-stiffness-structures/Final_3d_Nadia.jpg)
+{{< resource "271be30f-8046-cbd8-261d-74b292ee8801" >}}
 
 A 3D tunable structure made of foam.
 
@@ -160,10 +165,10 @@ As it typically is with research, many of my tests and experiments presented her
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to [Assignment 9 description]({{< baseurl >}}/pages/assignments-and-projects/final-project)
+« Previous: Return to {{% resource_link b1811d9e-a2ef-f6c0-c98c-0155bac8d761 "Assignment 9 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0) »
+Next: {{% resource_link ac818d6c-563d-f45a-f35a-abd7ec170986 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-special-topics-new-textiles-spring-2010/5fa1995960e8214d0a7b602426467b5d_presser_foot.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/5fa1995960e8214d0a7b602426467b5d_presser_foot.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: dac7dbe9-bb2e-33c6-6027-a326888523c0
 resourcetype: Image
 title: presser_foot.jpg
 uid: 5fa19959-60e8-214d-0a7b-602426467b5d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

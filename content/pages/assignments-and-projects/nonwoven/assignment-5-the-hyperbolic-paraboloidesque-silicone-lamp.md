@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,15 +9,19 @@ parent_type: CourseSection
 parent_uid: d8eb9e0f-dc2e-dea8-e428-1018fad1877d
 title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 uid: 07150280-b359-779b-1938-dee9a2f53f99
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to [Assignment 5 description]({{< baseurl >}}/pages/assignments-and-projects/nonwoven)
+« Previous: Return to {{% resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [student work sample]({{< baseurl >}}/pages/assignments-and-projects/nonwoven/assignment-5-posable-surface) »
+Next: {{% resource_link 5edba3bc-d722-e600-3a71-61b4af68e278 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
