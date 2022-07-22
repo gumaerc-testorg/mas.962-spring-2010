@@ -20,6 +20,7 @@ image_metadata:
   image-alt: "White embroidered fabric with the word \u2018filthy\u2019 in script."
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -33,4 +34,3 @@ video_metadata:
   youtube_id: null
 ---
 Hypothetically, if people were so rude and dirty as to bypass the opportunity to wipe their feet on the presented welcome mat, they would be alerted of their filth. Rather than rigging some sort of obnoxious alarm system, I decided to keep the punctuation simple with the text and amp it up through fancy script. A pedestal placed inside the doorway reading "please, take one" would display a stack of neatly folded satin handkerchiefs with one small word embroidered in the corner: "filthy." 
-

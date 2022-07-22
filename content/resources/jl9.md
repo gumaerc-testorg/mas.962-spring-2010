@@ -10,6 +10,7 @@ image_metadata:
     clips, and lights in the silicone turned on.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Initial test success with alligator clips. 
-

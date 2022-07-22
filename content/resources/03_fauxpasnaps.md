@@ -13,6 +13,7 @@ image_metadata:
   image-alt: "Drawing of \u2018faux pas dinner napkin\u2019 concept. "
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -26,4 +27,3 @@ video_metadata:
   youtube_id: null
 ---
 Initially I was hoping to create a video that featured a series of dinner napkins, their colorless surface supporting and emphasizing the immaculately pressed seams, exuding perfection. 
-

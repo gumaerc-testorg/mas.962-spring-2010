@@ -17,6 +17,7 @@ image_metadata:
     ."
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -30,4 +31,3 @@ video_metadata:
   youtube_id: null
 ---
 The hankies have two oppositional identities, depending on the audience. 1. To help people feel cleaner and ashamed that they didn't wipe their feet. 2. To help noses in the air gain some elevation, clearing their memory of the filthy woman laying on the ground asking people to wipe their filthy feet on her filthiness. 
-

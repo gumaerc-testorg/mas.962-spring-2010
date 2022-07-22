@@ -16,6 +16,7 @@ image_metadata:
     \ \u2018filthy\u2019 in script."
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -29,4 +30,3 @@ video_metadata:
   youtube_id: null
 ---
 As one might expect from a visual artist, my primary output consists of visual images. However, writing is one of my favorite, but most neglected, ways to occupy time. And since the embroidery machine can render text perfectly, the projects I produced are all platforms for linguistic devices. 
-

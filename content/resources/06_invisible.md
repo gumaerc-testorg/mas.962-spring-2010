@@ -16,6 +16,7 @@ image_metadata:
     collar, about to spill liquid on the napkin.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -29,4 +30,3 @@ video_metadata:
   youtube_id: null
 ---
 So in an awkward dinner exchange of spills and smears, the napkins would slowly reveal pride in human flaw. The napkins' text is stitched in clear, plastic thread, laid against a white background. If lit properly, the video camera wouldn't detect the subtle words on each diner's neck wear. 
-

@@ -10,6 +10,7 @@ image_metadata:
     \ the front of a dress laid out neatly on the floor (as if the dress is a doormat)."
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 And thought I'd like to be one. 
-

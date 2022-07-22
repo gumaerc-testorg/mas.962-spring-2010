@@ -5,6 +5,7 @@ file: /courses/mas-962-special-topics-new-textiles-spring-2010/8f67ceb3909a1090f
 file_type: application/postscript
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Assignment 6: Networked Wearable'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Adobe Illustrator source file of the Arduino circuit drawing.
-

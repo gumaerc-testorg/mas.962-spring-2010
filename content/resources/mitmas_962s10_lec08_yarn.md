@@ -4,6 +4,7 @@ description: This resource provides information related to Fibers and yarns.
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/0d3bff33c15ad64f223f138fa9a62d9b_MITMAS_962S10_lec08_yarn.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings, Lectures & Tutorials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information related to Fibers and yarns.
-

@@ -5,6 +5,7 @@ file: /courses/mas-962-special-topics-new-textiles-spring-2010/8475cb73bb68d7706
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Assignment 7: Little Black Dress 2.0'
 parent_type: CourseSection

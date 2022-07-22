@@ -4,6 +4,7 @@ description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/9900d2d547556a5cdd1760de805b8de4_ATtiny13FabricPCB.ai
 file_type: application/postscript
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Laser Cutter Tutorial
 parent_type: CourseSection

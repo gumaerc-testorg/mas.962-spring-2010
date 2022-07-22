@@ -15,6 +15,7 @@ image_metadata:
   image-alt: "Close-up photo of embroidered word \u2018up\u2019 on a white cloth napkin."
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -28,4 +29,3 @@ video_metadata:
   youtube_id: null
 ---
 For reasons I won't expound upon now, I have a serious affliction with perfection, but am forever captive to its impossible parameters as far as the computer-age is concerned. (Perhaps I really am a great-aunt swooning over stitched pictures... computer-age?) 
-

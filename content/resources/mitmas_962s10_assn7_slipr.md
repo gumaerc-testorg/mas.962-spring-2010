@@ -5,6 +5,7 @@ file: /courses/mas-962-special-topics-new-textiles-spring-2010/0edd79d6b415ce6e0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Assignment 7: Sneaky Slippers'
 parent_type: CourseSection

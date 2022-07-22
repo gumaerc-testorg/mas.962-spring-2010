@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Close-up photo of blades of grass.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 So I proceeded with another project, inspired by my obsession with fake grass and a group of students I teach. 
-

@@ -5,6 +5,7 @@ description: 'This resource provides information related to materials: conductiv
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/715d4a03480ff6d61005bd7fd2bbd879_MITMAS_962S10_lec01.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings, Lectures & Tutorials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information related to materials: conductive fabrics, conductive threads and yarns.
-

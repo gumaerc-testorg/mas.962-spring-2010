@@ -12,6 +12,7 @@ image_metadata:
     \ the word \u2018filthy\u2019 in script, and the caption \u201Cplease, take one.\u201D"
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
   youtube_id: null
 ---
 I feel bad for any audience member in this situation, really. I could go on about the concept behind this one...
-

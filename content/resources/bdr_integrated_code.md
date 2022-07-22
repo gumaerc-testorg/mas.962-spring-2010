@@ -5,6 +5,7 @@ file: /courses/mas-962-special-topics-new-textiles-spring-2010/4cb0c88210ec3230f
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Assignment 6: Wrist-based Way-finding'
 parent_type: CourseSection

@@ -21,6 +21,7 @@ image_metadata:
     legible.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -34,4 +35,3 @@ video_metadata:
   youtube_id: null
 ---
 As the evening progresses, things get messy. Splashes of saturated foodstuffs will soak the napkin, but resist the clear text, revealing confessions of inevitable error. (Which will hopefully remain white, guarding the patches of fabric behind the dense embroidery stitch.) But, as the napkin says....and had to abandon this project due to a lack of sufficient supplies. (Check back later for a live splash test.) 
-

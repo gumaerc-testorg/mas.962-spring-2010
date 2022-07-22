@@ -12,6 +12,7 @@ image_metadata:
     stand.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
   youtube_id: null
 ---
 The component parts for the lamp stand, made of laser cut acrylic, spray painted white.
-

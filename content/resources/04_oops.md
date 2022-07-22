@@ -14,6 +14,7 @@ image_metadata:
     s neck."
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -27,4 +28,3 @@ video_metadata:
   youtube_id: null
 ---
 Of course, dinner napkins don't stay in this state if properly used, fulfilling their role in making visible every error the diner makes in relationship to his plate.
-

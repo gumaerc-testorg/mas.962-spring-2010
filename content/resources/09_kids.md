@@ -14,6 +14,7 @@ image_metadata:
     \ just inside a heavily-used doorway."
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 8: Sassy Embroidery'
 parent_type: CourseSection
@@ -27,4 +28,3 @@ video_metadata:
   youtube_id: null
 ---
 In order to facilitate the experience of public intervention to correlate with our visual arts curriculum, I escorted the class to Lobby 7 for their chosen disruptive action: a nap. 
-

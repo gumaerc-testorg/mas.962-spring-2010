@@ -5,6 +5,7 @@ file: /courses/mas-962-special-topics-new-textiles-spring-2010/5648e55cddab0a076
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Assignment 3: PCButterfly'
 parent_type: CourseSection

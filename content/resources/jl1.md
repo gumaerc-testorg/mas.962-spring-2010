@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photo of a flat mold with raised pattern, and a molded piece of silicone.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 The Silicone Mold, made of laser cut acrylic.
-
