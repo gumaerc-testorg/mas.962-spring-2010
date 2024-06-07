@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/8475cb73bb68d7706fbff94968dee733_MITMAS_962S10_assn7_dress.pdf
+file_size: 1216986
 file_type: application/pdf
 learning_resource_types:
 - Assignments

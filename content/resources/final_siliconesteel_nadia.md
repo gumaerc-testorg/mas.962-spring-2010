@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/d21e5c702db25266de88d01371833ead_Final_siliconesteel_Nadia.jpg
+file_size: 61789
 file_type: image/jpeg
 image_metadata:
   caption: ''

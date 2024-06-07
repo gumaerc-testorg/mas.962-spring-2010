@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/1742372474e298f624d65aea2e16c2e2_AVRtesting.jpg
+file_size: 30219
 file_type: image/jpeg
 image_metadata:
   caption: ''

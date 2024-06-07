@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/bf7906f55e22fc857335db9f88693ed1_belt.jpg
+file_size: 49898
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Code for Assignment 3 student work, Fractal Tree Bag.
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/e675300bffcbe7a32a84880f2c8dba8b_bag_code.txt
+file_size: 699
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/7ca08c5fa2fc7fa6e85fcee9ce276a68_butterfly_layout.jpg
+file_size: 28220
 file_type: image/jpeg
 image_metadata:
   caption: ''

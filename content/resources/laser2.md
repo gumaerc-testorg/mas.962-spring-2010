@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/d5c884fd8b49f3086dcd5a879e474943_laser2.jpg
+file_size: 18434
 file_type: image/jpeg
 image_metadata:
   caption: ''

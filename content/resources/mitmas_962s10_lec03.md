@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information related to textile sensors.
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/d0570e4bd9dd1f6486ddfded9732a967_MITMAS_962S10_lec03.pdf
+file_size: 10753733
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

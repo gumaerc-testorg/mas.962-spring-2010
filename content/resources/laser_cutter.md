@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/6fff9ae3a69f1a1ba585428bdb38fc14_laser_cutter.jpg
+file_size: 42889
 file_type: image/jpeg
 image_metadata:
   caption: ''

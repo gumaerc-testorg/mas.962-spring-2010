@@ -4,6 +4,7 @@ description: 'In order to facilitate the experience of public intervention to co
   with our visual arts curriculum, I escorted the class to Lobby 7 for their chosen
   disruptive action: a nap. '
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/6e554df3f59969d64ce590606331515b_09_kids.jpg
+file_size: 68962
 file_type: image/jpeg
 image_metadata:
   caption: 'In order to facilitate the experience of public intervention to correlate

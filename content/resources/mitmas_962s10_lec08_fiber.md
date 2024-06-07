@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information related to Fibers and yarns.
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/8f2f1efc5399bd19cedb194e568d5c1a_MITMAS_962S10_lec08_fiber.pdf
+file_size: 754564
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

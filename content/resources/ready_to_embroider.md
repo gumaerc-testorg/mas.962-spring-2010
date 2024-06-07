@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/77b6377a951b01eec02a4c1c1c7fb65e_ready_to_embroider.jpg
+file_size: 47305
 file_type: image/jpeg
 image_metadata:
   caption: ''

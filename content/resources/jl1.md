@@ -2,6 +2,7 @@
 content_type: resource
 description: The Silicone Mold, made of laser cut acrylic.
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/51fe8b04e82ecd5a29f5d1e5994a073b_jl1.jpg
+file_size: 66914
 file_type: image/jpeg
 image_metadata:
   caption: The Silicone Mold, made of laser cut acrylic.

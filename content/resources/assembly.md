@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/986580a88190947b8c93585c1ee2ce4e_assembly.jpg
+file_size: 32794
 file_type: image/jpeg
 image_metadata:
   caption: ''
