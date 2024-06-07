@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/6056ae42f5b8b2a4106c3fc2282510ac_dressCloseup.jpg
+file_size: 69691
 file_type: image/jpeg
 image_metadata:
   caption: ''

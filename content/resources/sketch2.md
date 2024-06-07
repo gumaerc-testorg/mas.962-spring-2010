@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/10109fd76e7900f967035fc1392e4ad0_sketch2.jpg
+file_size: 52364
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/1dd81e31acd5aee13b4d7375e1b686b9_AVRCodeExecution.gif
+file_size: 8349
 file_type: image/gif
 image_metadata:
   caption: ''

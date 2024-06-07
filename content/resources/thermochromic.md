@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/1aa382b0016d6b91516a49648f50f9c1_thermochromic.jpg
+file_size: 55811
 file_type: image/jpeg
 image_metadata:
   caption: ''

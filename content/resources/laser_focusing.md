@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/2c0c390a69ebff9d40a36b19680932d8_laser_focusing.jpg
+file_size: 49992
 file_type: image/jpeg
 image_metadata:
   caption: ''

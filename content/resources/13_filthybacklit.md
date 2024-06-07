@@ -5,6 +5,7 @@ description: 'The hankies have two oppositional identities, depending on the aud
   To help noses in the air gain some elevation, clearing their memory of the filthy
   woman laying on the ground asking people to wipe their filthy feet on her filthiness. '
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/d2f59abada35f55672d43ef174c6e4ae_13_filthybacklit.jpg
+file_size: 37116
 file_type: image/jpeg
 image_metadata:
   caption: The hankies have two oppositional identities, depending on the audience.

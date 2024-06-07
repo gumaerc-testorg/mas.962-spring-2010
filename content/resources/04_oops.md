@@ -4,6 +4,7 @@ description: Of course, dinner napkins don't stay in this state if properly used
   fulfilling their role in making visible every error the diner makes in relationship
   to his plate.
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/088f28fe11ae04932cb95a084a9a2d02_04_oops.jpg
+file_size: 44239
 file_type: image/jpeg
 image_metadata:
   caption: Of course, dinner napkins don't stay in this state if properly used, fulfilling
