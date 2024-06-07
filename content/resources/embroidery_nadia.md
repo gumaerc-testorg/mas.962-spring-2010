@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/ed9ac73c883f4903c0d21e32f9bc7369_Embroidery_Nadia.jpg
+file_size: 80316
 file_type: image/jpeg
 image_metadata:
   caption: ''

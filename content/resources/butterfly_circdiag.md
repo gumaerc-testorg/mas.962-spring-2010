@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/c81fd30e1f6c25435a19d63e5aa49e9c_butterfly_circdiag.jpg
+file_size: 12538
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/2cc53dc9e011b3023db953d125b305d3_unsafe.jpg
+file_size: 24870
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/271be30f8046cbd8261d74b292ee8801_Final_3d_Nadia.jpg
+file_size: 43300
 file_type: image/jpeg
 image_metadata:
   caption: ''

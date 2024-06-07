@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/1715896047ae2769a8595da2874da9f1_LED.jpg
+file_size: 7064
 file_type: image/jpeg
 image_metadata:
   caption: ''

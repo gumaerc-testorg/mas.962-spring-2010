@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/721ff59ed52239faaa3fa61b6d5d0ee2_embroidery_arm.jpg
+file_size: 47322
 file_type: image/jpeg
 image_metadata:
   caption: ''

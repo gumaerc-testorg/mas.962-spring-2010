@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/404ea70e26538d08064838587f6ee780_yarn4.jpg
+file_size: 44785
 file_type: image/jpeg
 image_metadata:
   caption: ''

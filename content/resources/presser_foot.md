@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/5fa1995960e8214d0a7b602426467b5d_presser_foot.jpg
+file_size: 50540
 file_type: image/jpeg
 image_metadata:
   caption: ''

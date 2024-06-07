@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/008d9dff1fa93e8f1c9481ffa5521288_solder-done.jpg
+file_size: 20561
 file_type: image/jpeg
 image_metadata:
   caption: ''

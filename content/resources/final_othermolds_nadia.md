@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-special-topics-new-textiles-spring-2010/46cb24d829dc71bc193d60388fd1232e_Final_othermolds_Nadia.jpg
+file_size: 73224
 file_type: image/jpeg
 image_metadata:
   caption: ''
