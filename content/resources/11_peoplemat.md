@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'And thought I''d like to be one. '
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/aee7f510d537631eae58c94d81820859_11_peoplemat.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/aee7f510d537631eae58c94d81820859_11_peoplemat.jpg
 file_size: 50295
 file_type: image/jpeg
 image_metadata:
