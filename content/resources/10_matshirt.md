@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'I got to thinking about doormats really quickly. '
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/9b03aac80401a629e19bd42d7a7ccaa9_10_matshirt.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/9b03aac80401a629e19bd42d7a7ccaa9_10_matshirt.jpg
 file_size: 54383
 file_type: image/jpeg
 image_metadata:

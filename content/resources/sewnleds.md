@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/fcfe932040210fec9d809dd71c24fe43_SewnLeds.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/fcfe932040210fec9d809dd71c24fe43_SewnLeds.jpg
 file_size: 92856
 file_type: image/jpeg
 image_metadata:
