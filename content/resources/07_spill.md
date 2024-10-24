@@ -6,7 +6,7 @@ description: 'As the evening progresses, things get messy. Splashes of saturated
   the dense embroidery stitch.) But, as the napkin says....and had to abandon this
   project due to a lack of sufficient supplies. (Check back later for a live splash
   test.) '
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/64632474d657b58239238e9b978e692a_07_spill.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/64632474d657b58239238e9b978e692a_07_spill.jpg
 file_size: 47974
 file_type: image/jpeg
 image_metadata:

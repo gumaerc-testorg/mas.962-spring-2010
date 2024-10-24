@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Soldering surface mound diodes (SMDs) to the conductive fabric. '
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/424ed7828d440743f56f2b3583dd3b81_jl3.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/424ed7828d440743f56f2b3583dd3b81_jl3.jpg
 file_size: 56089
 file_type: image/jpeg
 image_metadata:

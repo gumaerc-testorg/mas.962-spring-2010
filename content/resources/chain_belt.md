@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/fc2d136297a34d98fd99c3b67c7b39a7_chain_belt.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/fc2d136297a34d98fd99c3b67c7b39a7_chain_belt.jpg
 file_size: 68523
 file_type: image/jpeg
 image_metadata:

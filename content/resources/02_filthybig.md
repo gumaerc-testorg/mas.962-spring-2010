@@ -4,7 +4,7 @@ description: 'As one might expect from a visual artist, my primary output consis
   of visual images. However, writing is one of my favorite, but most neglected, ways
   to occupy time. And since the embroidery machine can render text perfectly, the
   projects I produced are all platforms for linguistic devices. '
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/990e04a4d63f47724699d72002e0f49a_02_filthybig.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/990e04a4d63f47724699d72002e0f49a_02_filthybig.jpg
 file_size: 62918
 file_type: image/jpeg
 image_metadata:

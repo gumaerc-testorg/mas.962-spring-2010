@@ -4,7 +4,7 @@ description: 'For reasons I won''t expound upon now, I have a serious affliction
   perfection, but am forever captive to its impossible parameters as far as the computer-age
   is concerned. (Perhaps I really am a great-aunt swooning over stitched pictures...
   computer-age?) '
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/729fb68121e9e144a2069886e81c2d9a_05_closeUP.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/729fb68121e9e144a2069886e81c2d9a_05_closeUP.jpg
 file_size: 58436
 file_type: image/jpeg
 image_metadata:
