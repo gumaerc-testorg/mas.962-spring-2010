@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/42656b6c560de773ca96ce9cde898e78_textile_arduino.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/42656b6c560de773ca96ce9cde898e78_textile_arduino.jpg
 file_size: 57875
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/b9b689436ae356ca559ed6a4373fbd6a_Lillypadlayer.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/b9b689436ae356ca559ed6a4373fbd6a_Lillypadlayer.jpg
 file_size: 60884
 file_type: image/jpeg
 image_metadata:

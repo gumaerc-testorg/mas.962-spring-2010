@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/56ab976398f4ca45b1561bd83024bbec_Embroidery_machine_Nadia.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/56ab976398f4ca45b1561bd83024bbec_Embroidery_machine_Nadia.jpg
 file_size: 47884
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/53db2c380fcbd7c637ea5b36ecf48814_neoprene.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/53db2c380fcbd7c637ea5b36ecf48814_neoprene.jpg
 file_size: 23884
 file_type: image/jpeg
 image_metadata:

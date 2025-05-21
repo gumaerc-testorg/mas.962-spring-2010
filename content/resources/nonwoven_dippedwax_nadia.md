@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/fa9b00996e7dbb43480bf4eb865ec455_Nonwoven_dippedwax_Nadia.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/fa9b00996e7dbb43480bf4eb865ec455_Nonwoven_dippedwax_Nadia.jpg
 file_size: 56271
 file_type: image/jpeg
 image_metadata:

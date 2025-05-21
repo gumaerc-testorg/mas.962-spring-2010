@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/0ddf3f856d9b8e5d8aa6c26af01a6f73_circuit-assembled.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/0ddf3f856d9b8e5d8aa6c26af01a6f73_circuit-assembled.jpg
 file_size: 17728
 file_type: image/jpeg
 image_metadata:
