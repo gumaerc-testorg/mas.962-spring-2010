@@ -142,7 +142,7 @@ Yarn slides ({{% resource_link "0d3bff33-c15a-d64f-223f-138fa9a62d9b" "PDF" %}})
 
 Wikipedia: [Units of textile measurements](http://en.wikipedia.org/wiki/Units_of_textile_measurement)
 
-[Yarn calculator](http://www.creativeknittingmagazine.com/yarn_calculator.php)
+[Yarn calculator](https://craftyintentions.com/yarn-calculator)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -294,15 +294,15 @@ Knitting and weaving
 
 Knitting machine cast off: dianaknits. "Lesson 9 Latch Tool Bind Off." July 28, 2009. YouTube. Accessed October 5, 2010. [www.youtube.com/watch?v=OsNZIlT7zfw](http://www.youtube.com/watch?v=OsNZIlT7zfw)
 
-Maggie Orth's woven color changing pieces: erikbenson. "Dynamic Double Weave, by Maggie Orth." June 21, 2007. YouTube. Accessed October 5, 2010.   
+Maggie Orth's woven color changing pieces: erikbenson. "Dynamic Double Weave, by Maggie Orth." June 21, 2007. YouTube. Accessed October 5, 2010.    
 [www.youtube.com/watch?v=No2tNYDzbZY](http://www.youtube.com/watch?v=No2tNYDzbZY)
 
 Industrial circular knitting machine: sandaloom. "Circular Knitting Machine Video Display…" \[sic.\] May 13, 2009. YouTube. Accessed October 5, 2010. [www.youtube.com/watch?v=wmf6lm5fZz0](http://www.youtube.com/watch?v=wmf6lm5fZz0)
 
-Industrial loom: yuwen0122. "High Speed Rapier Loom." December 1, 2007. YouTube. Accessed October 5, 2010.   
+Industrial loom: yuwen0122. "High Speed Rapier Loom." December 1, 2007. YouTube. Accessed October 5, 2010.    
 [www.youtube.com/watch?v=Wq3vxydxMHo](http://www.youtube.com/watch?v=Wq3vxydxMHo)
 
-weaverstaceyuk. "Jacquard Loom Walkthrough." March 3, 2010. YouTube. Accessed October 5, 2010.   
+weaverstaceyuk. "Jacquard Loom Walkthrough." March 3, 2010. YouTube. Accessed October 5, 2010.    
 [www.youtube.com/watch?v=f1Zzj9ZBYmQ](http://www.youtube.com/watch?v=f1Zzj9ZBYmQ)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -355,7 +355,7 @@ Armstrong, H. Joseph. *Patternmaking for Fashion Design*. 5th ed. Upper Saddle R
 
 princesteve. "Flat pattern to 3D." October 31, 2006. YouTube. Accessed October 5, 2010. [www.youtube.com/watch?v=Eq7O6-g5MKc](http://www.youtube.com/watch?v=Eq7O6-g5MKc)
 
-safakmakina. "Band knife cutting machine 2." January 31, 2008. YouTube. Access October 5, 2010.   
+safakmakina. "Band knife cutting machine 2." January 31, 2008. YouTube. Access October 5, 2010.    
 [www.youtube.com/watch?v=OoHwkHWKg5w](http://www.youtube.com/watch?v=OoHwkHWKg5w)
 
 Garmento.org. "Origins of the sewing machine - a time line." ([PDF](http://garmenco.org/mg311/History%20of%20the%20Sewing%20Machine.pdf))
