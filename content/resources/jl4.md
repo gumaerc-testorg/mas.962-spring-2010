@@ -2,7 +2,7 @@
 content_type: resource
 description: The component parts for the lamp stand, made of laser cut acrylic, spray
   painted white.
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/b0ed4102d8473104e59e3d02d9d81af8_jl4.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/b0ed4102d8473104e59e3d02d9d81af8_jl4.jpg
 file_size: 30138
 file_type: image/jpeg
 image_metadata:

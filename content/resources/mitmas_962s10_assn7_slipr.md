@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/0edd79d6b415ce6e06ffbd036e3bdbbd_MITMAS_962S10_assn7_slipr.pdf
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/0edd79d6b415ce6e06ffbd036e3bdbbd_MITMAS_962S10_assn7_slipr.pdf
 file_size: 501589
 file_type: application/pdf
 learning_resource_types:

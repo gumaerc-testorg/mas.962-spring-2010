@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/857cf97162c47b707423e7d8e5e44c13_ArduinoPinMapping.gif
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/857cf97162c47b707423e7d8e5e44c13_ArduinoPinMapping.gif
 file_size: 25089
 file_type: image/gif
 image_metadata:

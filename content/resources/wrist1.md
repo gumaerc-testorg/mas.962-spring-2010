@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/fc050869284cbde4ddacdd324311bbe5_wrist1.gif
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/fc050869284cbde4ddacdd324311bbe5_wrist1.gif
 file_size: 57950
 file_type: image/gif
 image_metadata:

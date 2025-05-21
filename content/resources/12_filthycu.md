@@ -6,7 +6,7 @@ description: 'Hypothetically, if people were so rude and dirty as to bypass the 
   the punctuation simple with the text and amp it up through fancy script. A pedestal
   placed inside the doorway reading "please, take one" would display a stack of neatly
   folded satin handkerchiefs with one small word embroidered in the corner: "filthy." '
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/37a9ad054357595d1a1ef44b8d683487_12_filthycu.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/37a9ad054357595d1a1ef44b8d683487_12_filthycu.jpg
 file_size: 62495
 file_type: image/jpeg
 image_metadata:

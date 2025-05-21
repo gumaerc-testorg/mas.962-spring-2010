@@ -4,7 +4,7 @@ description: 'The hankies have two oppositional identities, depending on the aud
   1. To help people feel cleaner and ashamed that they didn''t wipe their feet. 2.
   To help noses in the air gain some elevation, clearing their memory of the filthy
   woman laying on the ground asking people to wipe their filthy feet on her filthiness. '
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/d2f59abada35f55672d43ef174c6e4ae_13_filthybacklit.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/d2f59abada35f55672d43ef174c6e4ae_13_filthybacklit.jpg
 file_size: 37116
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The finished stand. The battery is the central emblem.
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/3b42a643a6ca214b2bcd67d63833f564_jl5.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/3b42a643a6ca214b2bcd67d63833f564_jl5.jpg
 file_size: 39192
 file_type: image/jpeg
 image_metadata:

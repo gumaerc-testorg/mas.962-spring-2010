@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/71d7505fd718a56bddb97bab7564e726_butterfly_boardtest.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/71d7505fd718a56bddb97bab7564e726_butterfly_boardtest.jpg
 file_size: 36492
 file_type: image/jpeg
 image_metadata:

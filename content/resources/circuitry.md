@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/f9a19f8ae5bfc80bc0b20579044b80ee_circuitry.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/f9a19f8ae5bfc80bc0b20579044b80ee_circuitry.jpg
 file_size: 33796
 file_type: image/jpeg
 image_metadata:
