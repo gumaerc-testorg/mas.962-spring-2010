@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/37bb1e66db61aefc01a625424d994d80_laser_focusing_2.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/37bb1e66db61aefc01a625424d994d80_laser_focusing_2.jpg
 file_size: 50034
 file_type: image/jpeg
 image_metadata:

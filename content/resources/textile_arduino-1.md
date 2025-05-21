@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Adobe Illustrator source file of the Arduino circuit drawing.
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/8f67ceb3909a1090fd0c89727abbd8ca_textile_arduino.ai
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/8f67ceb3909a1090fd0c89727abbd8ca_textile_arduino.ai
 file_size: 56196
 file_type: application/postscript
 learning_resource_types:

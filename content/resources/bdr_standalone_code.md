@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/931f1939123dee3a70772886289249b6_bdr_standalone_code.txt
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/931f1939123dee3a70772886289249b6_bdr_standalone_code.txt
 file_size: 2911
 file_type: text/plain
 learning_resource_types:

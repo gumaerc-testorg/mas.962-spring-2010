@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/c7c87f3684b5cc3745e5e7f5339ce8b8_soldering.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/c7c87f3684b5cc3745e5e7f5339ce8b8_soldering.jpg
 file_size: 30628
 file_type: image/jpeg
 image_metadata:

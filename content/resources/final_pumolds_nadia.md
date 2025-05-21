@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/207eba9114fb9c8d7f37c57bd7f31046_Final_PUmolds_Nadia.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/207eba9114fb9c8d7f37c57bd7f31046_Final_PUmolds_Nadia.jpg
 file_size: 40220
 file_type: image/jpeg
 image_metadata:

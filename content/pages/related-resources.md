@@ -2,6 +2,7 @@
 content_type: page
 description: This section provides links to related resources, including tutorials,
   sources for textiles and electronics, and other useful links.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,18 +12,15 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
-Tutorials
----------
+## Tutorials
 
 [Arduino home page](http://arduino.cc/)
 
-[How to make felt fabric](https://www.allfiberarts.com/topics/felting)
+[How to make felt fabric](https://www.feltandyarn.com/blog/tips/a-beginners-guide-to-how-to-felt-felting-techniques-101?srsltid=AfmBOoolwla1amBKnW-Pml1mw763lzD8zkL9UA0YSRIOfVA5Voe2NxBR)
 
 [How to fuse plastic bags into fabric](http://www.instructables.com/id/Fusing-Plastic-Bags-the-eclipse-way/)
 
-Where to Get Stuff
-------------------
+## Where to Get Stuff
 
 ### Conductive Textiles
 
@@ -62,8 +60,8 @@ Windsor Button – yarn, sewing notions & findings - cheap and T-accessible
 
 Digi-Key
 
-*   [ATtiny13](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=ATTINY13V-10PU-ND)
-*   [AVRISP programmer](http://search.digikey.com/scripts/DkSearch/dksus.dll?Cat=2621880&k=avrisp)
+- [ATtiny13](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=ATTINY13V-10PU-ND)
+- [AVRISP programmer](http://search.digikey.com/scripts/DkSearch/dksus.dll?Cat=2621880&k=avrisp)
 
 [AVR libc documentation](http://www.nongnu.org/avr-libc/user-manual/index.html)
 
@@ -79,21 +77,21 @@ Digi-Key
 
 Digi-Key
 
-*   [White](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1737-1-ND)
-*   [Green](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1136-1-ND)
-*   [Blue](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1439-1-ND)
-*   [Red](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1173-1-ND)
-*   [Yellow](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1144-1-ND)
+- [White](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1737-1-ND)
+- [Green](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1136-1-ND)
+- [Blue](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1439-1-ND)
+- [Red](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1173-1-ND)
+- [Yellow](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1144-1-ND)
 
 ### "Regular" 5mm LEDs
 
 Digi-Key
 
-*   [Red](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1127-ND)
-*   [Green](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1131-ND)
-*   [Yellow](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1133-ND)
-*   [Blue](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=C566C-BFS-CS0W0451-ND)
-*   [White](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1772-ND)
+- [Red](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1127-ND)
+- [Green](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1131-ND)
+- [Yellow](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1133-ND)
+- [Blue](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=C566C-BFS-CS0W0451-ND)
+- [White](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1772-ND)
 
 ### Motors
 
@@ -101,14 +99,12 @@ Digi-Key
 
 [HobbyPartz](http://www.hobbypartz.com/kahaoubrmo11.html) – tiny cheap servos
 
-Miscellaneous Useful Links
---------------------------
+## Miscellaneous Useful Links
 
-[Bar code generator](http://qrcode.kaywa.com)
+[Bar code generator](http://qrcode.kaywa.com/)
 
 [Fiber burn chart](http://www.ditzyprints.com/dpburnchart.html)
 
 [Wikipedia entry on textile measurements](http://en.wikipedia.org/wiki/Units_of_textile_measurement)
 
-[Textile measurement converter](http://www.creativeknittingmagazine.com/yarn_calculator.php
-)
+[Textile measurement converter](https://www.quiltersparadiseesc.com/Calculators/Fabric%20Measurement%20Conversion.php)

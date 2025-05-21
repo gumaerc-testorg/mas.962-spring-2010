@@ -2,7 +2,7 @@
 content_type: resource
 description: 'So I proceeded with another project, inspired by my obsession with fake
   grass and a group of students I teach. '
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/b72d3bf4c386f1cb0f223edaaeeccc1b_08_grass.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/b72d3bf4c386f1cb0f223edaaeeccc1b_08_grass.jpg
 file_size: 60174
 file_type: image/jpeg
 image_metadata:

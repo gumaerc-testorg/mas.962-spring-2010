@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/9900d2d547556a5cdd1760de805b8de4_ATtiny13FabricPCB.ai
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/9900d2d547556a5cdd1760de805b8de4_ATtiny13FabricPCB.ai
 file_size: 16580
 file_type: application/postscript
 learning_resource_types: []

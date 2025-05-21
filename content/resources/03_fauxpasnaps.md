@@ -3,7 +3,7 @@ content_type: resource
 description: 'Initially I was hoping to create a video that featured a series of dinner
   napkins, their colorless surface supporting and emphasizing the immaculately pressed
   seams, exuding perfection. '
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/fcbac00454ff986c1ea982240f01a9c3_03_fauxpasnaps.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/fcbac00454ff986c1ea982240f01a9c3_03_fauxpasnaps.jpg
 file_size: 40199
 file_type: image/jpeg
 image_metadata:

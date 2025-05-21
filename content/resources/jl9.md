@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Initial test success with alligator clips. '
-file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/ffc88f9f4b7443d37baa621ef78ba8d9_jl9.jpg
+file: /courses/mas-962-special-topics-new-textiles-spring-2010/ffc88f9f4b7443d37baa621ef78ba8d9_jl9.jpg
 file_size: 45923
 file_type: image/jpeg
 image_metadata:
