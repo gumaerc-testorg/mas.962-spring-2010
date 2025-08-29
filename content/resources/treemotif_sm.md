@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/537def6dac12ae136320af43eece4cde_treemotif_sm.gif
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/537def6dac12ae136320af43eece4cde_treemotif_sm.gif
 file_size: 48890
 file_type: image/gif
 image_metadata:

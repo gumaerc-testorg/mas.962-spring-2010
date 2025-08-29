@@ -2,7 +2,7 @@
 content_type: resource
 description: Just after pouring the (white) silicone into the mold. Tabs are left
   open at the edges of the surface so contacts can be made there to the lamp stand.
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/e0ce75fb89a9ca1d51372e47769e6f43_jl6.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/e0ce75fb89a9ca1d51372e47769e6f43_jl6.jpg
 file_size: 62831
 file_type: image/jpeg
 image_metadata:

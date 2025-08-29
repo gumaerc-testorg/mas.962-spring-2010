@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/898eeba25d9be9808f873fa7b1c3cd18_embroidery_machinescreen.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/898eeba25d9be9808f873fa7b1c3cd18_embroidery_machinescreen.jpg
 file_size: 51706
 file_type: image/jpeg
 image_metadata:

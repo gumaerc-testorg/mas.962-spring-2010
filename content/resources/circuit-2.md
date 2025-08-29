@@ -2,7 +2,7 @@
 content_type: resource
 description: New image Upload
 draft: false
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/6bdbac83bd9e35f63f149705844bb738_circuit.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/6bdbac83bd9e35f63f149705844bb738_circuit.jpg
 file_size: 41677
 file_type: image/jpeg
 image_metadata:

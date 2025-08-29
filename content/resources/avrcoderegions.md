@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/fabcdcf6dfbf00b0a3e5e9f945ceac94_AVRCodeRegions.gif
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/fabcdcf6dfbf00b0a3e5e9f945ceac94_AVRCodeRegions.gif
 file_size: 8596
 file_type: image/gif
 image_metadata:

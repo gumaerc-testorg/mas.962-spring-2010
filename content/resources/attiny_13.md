@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/fcb27e2a23dea06ae92127d746444f71_ATtiny_13.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/fcb27e2a23dea06ae92127d746444f71_ATtiny_13.jpg
 file_size: 27608
 file_type: image/jpeg
 image_metadata:
