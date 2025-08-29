@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/b0f813d51b8757b6603b94cae8217fe6_gramazio_kohler.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/b0f813d51b8757b6603b94cae8217fe6_gramazio_kohler.jpg
 file_size: 45070
 file_type: image/jpeg
 image_metadata:

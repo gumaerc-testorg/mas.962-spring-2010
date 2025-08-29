@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/16e6afa4438abbf1ed9e20bde3fdb8de_slippers-proposal.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/16e6afa4438abbf1ed9e20bde3fdb8de_slippers-proposal.jpg
 file_size: 39546
 file_type: image/jpeg
 image_metadata:

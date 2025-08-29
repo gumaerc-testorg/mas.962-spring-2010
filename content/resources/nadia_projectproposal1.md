@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/9c062160077286e289975aac9f523cd4_Nadia_projectproposal1.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/9c062160077286e289975aac9f523cd4_Nadia_projectproposal1.jpg
 file_size: 148829
 file_type: image/jpeg
 image_metadata:
