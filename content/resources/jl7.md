@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Close-up of casting, with SMDs embedded.
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/cdfda7461bbabe5f16096d5aed689eb2_jl7.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/cdfda7461bbabe5f16096d5aed689eb2_jl7.jpg
 file_size: 40844
 file_type: image/jpeg
 image_metadata:

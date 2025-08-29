@@ -4,7 +4,7 @@ description: 'So in an awkward dinner exchange of spills and smears, the napkins
   slowly reveal pride in human flaw. The napkins'' text is stitched in clear, plastic
   thread, laid against a white background. If lit properly, the video camera wouldn''t
   detect the subtle words on each diner''s neck wear. '
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/9f65868149973bf2af54beaaea190182_06_invisible.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/9f65868149973bf2af54beaaea190182_06_invisible.jpg
 file_size: 45812
 file_type: image/jpeg
 image_metadata:

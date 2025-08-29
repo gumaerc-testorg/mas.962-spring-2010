@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/d395800a8faf855b6974cf2941572f7e_Final_steelyarndisc_Nadia.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/d395800a8faf855b6974cf2941572f7e_Final_steelyarndisc_Nadia.jpg
 file_size: 28932
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/75cd7d71ab44150f13a29ca018c11178_circuit.gif
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/75cd7d71ab44150f13a29ca018c11178_circuit.gif
 file_size: 26922
 file_type: image/gif
 image_metadata:

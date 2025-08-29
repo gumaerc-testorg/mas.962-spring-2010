@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/e7a9469f78163eeec287c54d3ca585e0_AVRCodeSwitch.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/e7a9469f78163eeec287c54d3ca585e0_AVRCodeSwitch.jpg
 file_size: 49630
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information related to materials: conductive
   fabrics, conductive threads and yarns.'
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/715d4a03480ff6d61005bd7fd2bbd879_MITMAS_962S10_lec01.pdf
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/715d4a03480ff6d61005bd7fd2bbd879_MITMAS_962S10_lec01.pdf
 file_size: 1918100
 file_type: application/pdf
 learning_resource_types: []

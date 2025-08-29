@@ -2,7 +2,7 @@
 content_type: resource
 description: New image Upload
 draft: false
-file: /courses/mas-962-special-topics-new-textiles-spring-2010/21bd5e42db9c3d3c5f00767e2ed2077c_AVRcircuit.jpg
+file: /ol-ocw-studio-app/courses/mas-962-special-topics-new-textiles-spring-2010/21bd5e42db9c3d3c5f00767e2ed2077c_AVRcircuit.jpg
 file_size: 41685
 file_type: image/jpeg
 image_metadata:
