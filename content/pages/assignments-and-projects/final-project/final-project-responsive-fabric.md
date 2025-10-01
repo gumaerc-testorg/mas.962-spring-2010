@@ -37,7 +37,7 @@ Responsive Fabric.
 
 These days, more and more new smart materials expand the versatility of fiber and at the same time redefine what we can do with textiles. Before exploring other design possibilities with this material, I need to ask myself: how can I connect and control these materials so that they can speak to each other and I can speak to them?
 
-So, my goal in this final project is to understand how to connect the smart material (Nitinol) with the conductive fabric as the medium, the arduino as the microcontroller, and the processing as the user interface in order to perform a kinetic behavior to the fabrics. (Nitinol is perfectly fit with the textiles in terms of its size and dimension, instead of using a motor.) As a beginner in this field, I learned by following one great example, in this case [Marcelo Coelho's Shutter Project](https://www.media.mit.edu/publications/shutters-a-permeable-surface-for-environmental-control-and-communication/) , and try to create the similar procedure and function.
+So, my goal in this final project is to understand how to connect the smart material (Nitinol) with the conductive fabric as the medium, the arduino as the microcontroller, and the processing as the user interface in order to perform a kinetic behavior to the fabrics. (Nitinol is perfectly fit with the textiles in terms of its size and dimension, instead of using a motor.) As a beginner in this field, I learned by following one great example, in this case {{% resource_link "11596d7d-f7e0-4d88-9952-62fa9ed0eb5d" "Marcelo Coelho's Shutter Project" %}} , and try to create the similar procedure and function.
 
 Component
 ---------
