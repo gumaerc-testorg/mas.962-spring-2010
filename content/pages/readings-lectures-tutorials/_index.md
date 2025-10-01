@@ -65,7 +65,7 @@ Techniques: sensor design
 {{< tdclose >}}{{< tdopen >}}
 Slides ({{% resource_link "d0570e4b-d9dd-1f64-86dd-fded9732a967" "PDF - 10.3MB" %}})(Courtesy of Hannah Perner-Wilson. Used with permission.
 {{< tdclose >}}{{< tdopen >}}
-Plusea. "Fabric Poteniometer (update)." March 27, 2009. YouTube. Access October 6, 2010. [www.youtube.com/watch?v=G7z7AMOds-w](http://www.youtube.com/watch?v=G7z7AMOds-w)
+Plusea. "Fabric Poteniometer (update)." March 27, 2009. YouTube. Access October 6, 2010. {{% resource_link "ff63aed6-366e-4013-9923-d61bd8aecb59" "www.youtube.com/watch?v=G7z7AMOds-w" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -79,11 +79,11 @@ Fabric PCBs, part 1
 {{< tdclose >}}{{< tdopen >}}
 Fabric PCB tutorial ({{% resource_link "30216b3e-7224-0908-86de-3e5fa34ac744" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Buechley, L., and Eisenberg, M. ["Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-textile Craft."](https://dl.acm.org/doi/10.1007/s00779-007-0181-0) *Journal of Personal and Ubiquitous Computing*, 13, no. 2 (2009): 133-150.
+Buechley, L., and Eisenberg, M. {{% resource_link "6ad203b0-220d-4196-91e1-c5053277a4a1" "\"Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-textile Craft.\"" %}} *Journal of Personal and Ubiquitous Computing*, 13, no. 2 (2009): 133-150.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by [Marcelo Coelho](http://fluid.media.mit.edu/people/marcelo-coelho), MIT Media Lab
+Guest lecture by {{% resource_link "b23f43bb-d42a-4617-b4e3-d61561707965" "Marcelo Coelho" %}}, MIT Media Lab
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -113,7 +113,7 @@ Fabric PCBs, part 2
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by [Prof. Yoel Fink](http://www.rle.mit.edu/people/directory/yoel-fink/), MIT Materials Science and Engineering
+Guest lecture by {{% resource_link "ea13d038-5bc2-442b-bb95-9daca45eab06" "Prof. Yoel Fink" %}}, MIT Materials Science and Engineering
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -140,14 +140,14 @@ Yarn slides ({{% resource_link "0d3bff33-c15a-d64f-223f-138fa9a62d9b" "PDF" %}})
 
 \[Kadolph and Langford\], chapters 3-11
 
-Wikipedia: [Units of textile measurements](http://en.wikipedia.org/wiki/Units_of_textile_measurement)
+Wikipedia: {{% resource_link "03019d54-f5fd-49db-b586-d933e31f9f9a" "Units of textile measurements" %}}
 
-[Yarn calculator](https://craftyintentions.com/yarn-calculator)
+{{% resource_link "f5990c7a-15de-4428-b513-a1591714d58c" "Yarn calculator" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by [Greg Rutledge](http://web.mit.edu/rutledgegroup/), MIT Chemical Engineering
+Guest lecture by {{% resource_link "0e5e921e-eb25-4f74-84e1-f8ad48b327c6" "Greg Rutledge" %}}, MIT Chemical Engineering
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -176,7 +176,7 @@ Nonwovens
 
 \[Kadolph and Langford\], chapter 15.
 
-gawara. "Mongolian Felt Making." May 27, 2006. YouTube. Access October 6, 2010. [www.youtube.com/watch?v=gJ0uojUHYdA](http://www.youtube.com/watch?v=gJ0uojUHYdA)
+gawara. "Mongolian Felt Making." May 27, 2006. YouTube. Access October 6, 2010. {{% resource_link "73b39f66-58a5-413b-83d4-1719ba7bb7bf" "www.youtube.com/watch?v=gJ0uojUHYdA" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -195,7 +195,7 @@ Wearable computing, part 1 (joint class with 21W.789 *Communicating with Mobile 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by Tricia Wilson Nguyen, [Thistle Threads](http://www.thistle-threads.com/)
+Guest lecture by Tricia Wilson Nguyen, {{% resource_link "63a3f9ba-e5bf-43de-ac48-adbb8dab3d21" "Thistle Threads" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -217,7 +217,7 @@ Wearable computing, part 2 (joint class with 21W.789 *Communicating with Mobile 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by Despina Papadopoulos, [Studio 5050, NYU](http://www.5050ltd.com/who_we_are.php)
+Guest lecture by Despina Papadopoulos, {{% resource_link "e1ee09ee-43fc-45cf-a2e5-75f70d000a05" "Studio 5050, NYU" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -253,7 +253,7 @@ Embroidery and printing
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by [Rehmi Post](https://www.media.mit.edu/video/view/post-2003-07-18) and Kit Waal, MIT
+Guest lecture by {{% resource_link "cb885d80-09fa-4b3b-8454-9e6020cb6ba5" "Rehmi Post" %}} and Kit Waal, MIT
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -269,7 +269,7 @@ Final project proposal presentations
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by [Becky Stern](http://makezine.com/author/becky-stern/), MAKE and CRAFT
+Guest lecture by {{% resource_link "a59e8575-0a95-4483-acf0-9387226262d0" "Becky Stern" %}}, MAKE and CRAFT
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -292,39 +292,39 @@ Knitting and weaving
 
 ### Videos
 
-Knitting machine cast off: dianaknits. "Lesson 9 Latch Tool Bind Off." July 28, 2009. YouTube. Accessed October 5, 2010. [www.youtube.com/watch?v=OsNZIlT7zfw](http://www.youtube.com/watch?v=OsNZIlT7zfw)
+Knitting machine cast off: dianaknits. "Lesson 9 Latch Tool Bind Off." July 28, 2009. YouTube. Accessed October 5, 2010. {{% resource_link "8172da71-7796-4ed7-9940-877ff824410d" "www.youtube.com/watch?v=OsNZIlT7zfw" %}}
 
 Maggie Orth's woven color changing pieces: erikbenson. "Dynamic Double Weave, by Maggie Orth." June 21, 2007. YouTube. Accessed October 5, 2010.    
-[www.youtube.com/watch?v=No2tNYDzbZY](http://www.youtube.com/watch?v=No2tNYDzbZY)
+{{% resource_link "483b043a-7a11-45b5-9739-7045379bec91" "www.youtube.com/watch?v=No2tNYDzbZY" %}}
 
-Industrial circular knitting machine: sandaloom. "Circular Knitting Machine Video Display…" \[sic.\] May 13, 2009. YouTube. Accessed October 5, 2010. [www.youtube.com/watch?v=wmf6lm5fZz0](http://www.youtube.com/watch?v=wmf6lm5fZz0)
+Industrial circular knitting machine: sandaloom. "Circular Knitting Machine Video Display…" \[sic.\] May 13, 2009. YouTube. Accessed October 5, 2010. {{% resource_link "e93712a7-84ef-41b8-a293-e1d524e05967" "www.youtube.com/watch?v=wmf6lm5fZz0" %}}
 
 Industrial loom: yuwen0122. "High Speed Rapier Loom." December 1, 2007. YouTube. Accessed October 5, 2010.    
-[www.youtube.com/watch?v=Wq3vxydxMHo](http://www.youtube.com/watch?v=Wq3vxydxMHo)
+{{% resource_link "0985df4e-fdbb-4bcf-805f-7b01b27e9edc" "www.youtube.com/watch?v=Wq3vxydxMHo" %}}
 
 weaverstaceyuk. "Jacquard Loom Walkthrough." March 3, 2010. YouTube. Accessed October 5, 2010.    
-[www.youtube.com/watch?v=f1Zzj9ZBYmQ](http://www.youtube.com/watch?v=f1Zzj9ZBYmQ)
+{{% resource_link "8c5498d8-5a32-4dab-b896-0914744acfaa" "www.youtube.com/watch?v=f1Zzj9ZBYmQ" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture by [Anne Whiston Spirn](http://web.mit.edu/spirn/www/), MIT
+Guest lecture by {{% resource_link "ceb50f28-006e-497f-80b4-4dd4743b0663" "Anne Whiston Spirn" %}}, MIT
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
 
 Artists and designers discussed in this session:
 
-\- [NUNO](http://www.nuno.com/)
+\- {{% resource_link "e8fc17ff-d534-4658-bfde-ffb94cdf29ee" "NUNO" %}}
 
-\- [Randy Darwall](https://americanart.si.edu/artist/randall-darwall-28092)
+\- {{% resource_link "5bb3c1ac-7db5-4c12-a213-0a86b8723d3f" "Randy Darwall" %}}
 
-\- [Kiss of the Wolf](http://kissofthewolf.com/)
+\- {{% resource_link "8033c68e-ce97-45ce-85ef-3fbb041131c5" "Kiss of the Wolf" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Field trip to the [RISD Textile](http://www.risd.edu/academics/textiles/) department
+Field trip to the {{% resource_link "6203194c-02a4-4ded-be80-2ee154ee358c" "RISD Textile" %}} department
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -345,7 +345,7 @@ Pattern design
 
 \- Techniques: pattern design, sewing
 
-Guest lecture by [Sheila Kennedy](http://www.kvarch.net/), MIT Architecture and KVA
+Guest lecture by {{% resource_link "1c4c8930-2b39-4451-8dad-2ec638e4e3d2" "Sheila Kennedy" %}}, MIT Architecture and KVA
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -353,27 +353,27 @@ Guest lecture by [Sheila Kennedy](http://www.kvarch.net/), MIT Architecture and 
 
 Armstrong, H. Joseph. *Patternmaking for Fashion Design*. 5th ed. Upper Saddle River, NJ: Prentice Hall, 2010, chapters 1-3. ISBN: 9780136069348.
 
-princesteve. "Flat pattern to 3D." October 31, 2006. YouTube. Accessed October 5, 2010. [www.youtube.com/watch?v=Eq7O6-g5MKc](http://www.youtube.com/watch?v=Eq7O6-g5MKc)
+princesteve. "Flat pattern to 3D." October 31, 2006. YouTube. Accessed October 5, 2010. {{% resource_link "bd8b8b62-4c6b-45fd-90a2-c3c6fc873155" "www.youtube.com/watch?v=Eq7O6-g5MKc" %}}
 
 safakmakina. "Band knife cutting machine 2." January 31, 2008. YouTube. Access October 5, 2010.    
-[www.youtube.com/watch?v=OoHwkHWKg5w](http://www.youtube.com/watch?v=OoHwkHWKg5w)
+{{% resource_link "e985f330-db7b-4264-a014-be7023a97319" "www.youtube.com/watch?v=OoHwkHWKg5w" %}}
 
-Garmento.org. "Origins of the sewing machine - a time line." ([PDF](http://garmenco.org/mg311/History%20of%20the%20Sewing%20Machine.pdf))
+Garmento.org. "Origins of the sewing machine - a time line." ({{% resource_link "88c50926-6f9e-46bc-aab9-a6fcc0185005" "PDF" %}})
 
 Pattern making software
 
-\- [Lectra](http://www.lectra.com/en)
+\- {{% resource_link "94fcd578-cafd-405f-b6cd-e0068f15619d" "Lectra" %}}
 
-\- [Gerber](http://www.gerbertechnology.com/en-us/solutions/apparelretail/productdesign/accumark/accumark85.aspx)
+\- {{% resource_link "d55a0c7a-20f4-4044-9d9b-d6cdc2c8a0aa" "Gerber" %}}
 
-\- [TUKAtech](http://www.tukatech.com/) (renting options)
+\- {{% resource_link "18bc5b38-723c-4435-9cd3-ecdd3542971c" "TUKAtech" %}} (renting options)
 
-\- [Optitex](http://www.optitex.com/)
+\- {{% resource_link "507472e3-7671-420b-b4fc-7b1d3f6d8059" "Optitex" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Visit from [Kelly Dobson's](http://web.media.mit.edu/~monster/blendie/) "Textile Futures" class @ RISD
+Visit from {{% resource_link "a4bf467d-4cc8-4c0f-820d-3fb4e7655829" "Kelly Dobson's" %}} "Textile Futures" class @ RISD
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
