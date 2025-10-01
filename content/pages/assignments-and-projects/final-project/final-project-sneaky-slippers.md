@@ -31,7 +31,7 @@ For my final project, I wanted to create a pair of whimsical but useful slippers
 
 {{< resource uuid="469074a2-843b-1dfc-c30f-77e5227f3509" >}}
 
-The Sneaky Slipper concept. (Wool slippers photo © [The Wool Shack](http://frenchpressknits.blogspot.com/2009/10/happy-slipper-day.html). (c) The Wool Shack to (c) French Press Knits.)
+The Sneaky Slipper concept. (Wool slippers photo © {{% resource_link "048cae28-d44c-466b-be93-ccef62ce7ad2" "The Wool Shack" %}}. (c) The Wool Shack to (c) French Press Knits.)
 
 The project is divided into 2 major parts: the knitting and the electronics.
 
@@ -69,7 +69,7 @@ I designed a simple circuit for both charging the battery from a small solar pan
 
 The Sneaky Slippers circuit.
 
-Sources: [Battery](http://www.sparkfun.com/commerce/product_info.php?products_id=731), [LEDs](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1737-1-ND), Solar Panel, [Diode](http://www.sparkfun.com/commerce/product_info.php?products_id=8589), Pressure-sensitive rubber (not used on the final product)
+Sources: {{% resource_link "5f6e7db1-59af-4b34-8625-833078ed2a0e" "Battery" %}}, {{% resource_link "e2a8ff76-75e3-4dab-be0e-2ea021b41f79" "LEDs" %}}, Solar Panel, {{% resource_link "aebef906-17b5-4861-b082-adc365f53349" "Diode" %}}, Pressure-sensitive rubber (not used on the final product)
 
 {{< resource uuid="1c8b1e9d-f024-78e8-b6b7-dfd2d1eccb92" >}}
 {{< resource uuid="cc6fa922-d528-3689-3829-0ebbdc6be5f2" >}}
@@ -102,7 +102,7 @@ They worked like a charm!
 
 Sneaky Slippers.
 
-[Ravelry page](http://ravel.me/MITchick/fpfs)
+{{% resource_link "2c5e6bfb-e28f-470e-88fd-0951842a91c5" "Ravelry page" %}}
 
 ### Success Story
 

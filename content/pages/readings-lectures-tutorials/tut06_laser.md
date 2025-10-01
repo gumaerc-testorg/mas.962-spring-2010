@@ -18,7 +18,7 @@ video_metadata:
 
 WARNING NOTICE:
 
-The activities described on this page are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](https://ocw-studio.odl.mit.edu/terms/)
+The activities described on this page are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. {{% resource_link "7ddc553f-09f6-40fa-8c68-56c5fa80d734" "Legal Notice" %}}
 
 We have a Bright Star LG500tt 60 Watt laser cutter.
 
