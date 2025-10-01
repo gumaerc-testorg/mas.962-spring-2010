@@ -27,9 +27,9 @@ Next: {{% resource_link 65b98bff-a576-b7e8-689b-c6366c1e63d3 "Assignment 3: \"He
 
 {{< tableclose >}}
 
-Class Ses #6 will include an introduction to microcontroller programming – specifically using [Amtel{{< sup "®" >}} AVR microcontrollers](http://www.atmel.com/products/AVR/default.asp?family_id=607). To prepare for class, install the appropropriate AVR development environment on your laptop, and bring your laptop to class.
+Class Ses #6 will include an introduction to microcontroller programming – specifically using {{% resource_link "d37955bf-da74-488a-84d9-b2f673dc7b8b" "Amtel{{< sup \"®\" >}} AVR microcontrollers" %}}. To prepare for class, install the appropropriate AVR development environment on your laptop, and bring your laptop to class.
 
-*   Mac: [CrossPack](http://www.obdev.at/products/crosspack/index.html)
-*   Windows: [WinAVR](http://winavr.sourceforge.net/)™
+*   Mac: {{% resource_link "023c7e28-445d-4ab8-8f05-0ea6e9ea52f4" "CrossPack" %}}
+*   Windows: {{% resource_link "c9c679e3-6443-4ad6-85f6-27a92fbb99f8" "WinAVR" %}}™
 
 \[There are no student work samples for this assignment.\]

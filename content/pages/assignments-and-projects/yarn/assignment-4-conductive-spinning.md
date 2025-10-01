@@ -141,7 +141,7 @@ Thoughts, Improvements, Suggestions
 -----------------------------------
 
 *   Spinning is HARD – This video makes it look easy!  
-    theartofmegan. “Spinning Yarn on a Drop Spindle – Tutorial.” YouTube. May 13, 2008. Accessed December 2, 2010. [http://www.youtube.com/watch?v=7gXTWgMeMgI](http://www.youtube.com/watch?v=7gXTWgMeMgI)  
+    theartofmegan. “Spinning Yarn on a Drop Spindle – Tutorial.” YouTube. May 13, 2008. Accessed December 2, 2010. {{% resource_link "e3b3f93d-1b55-46c5-a8d9-f67a3bbef2d5" "http://www.youtube.com/watch?v=7gXTWgMeMgI" %}}  
     It takes a lot of patience and coordination to do correctly. However, I think this assignment was good because 2 yards was a reasonable amount to make, not too much, not too little.
 *   The metal fibers seem soft at first, but the definitely "shed" more, so little bits of metal ended up all around where I was spinning. Also, I found that I couldn't run my hand along the roving as tightly with the steel because it was more prickly than the wool when being held tightly.
 *   Plying magnifies any inconsistencies in your tension from spinning. Luckily art yarns are very pretty! :-)

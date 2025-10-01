@@ -41,7 +41,7 @@ We could then program the power to be sent to each LED, and turn all the others 
 
 The horizontal pins were set to HIGH and the vertical pins set to LOW. Each state had an associated LED, to turn on a particular pin its horizontal bar was called at HIGH and its vertical bar was called at LOW.
 
-Wikipedia has a good reference article on [charlieplexing](http://en.wikipedia.org/wiki/Charlieplexing).
+Wikipedia has a good reference article on {{% resource_link "e57482fa-6dff-4db9-a902-67f99502d48d" "charlieplexing" %}}.
 
 Charlieplexing
 
