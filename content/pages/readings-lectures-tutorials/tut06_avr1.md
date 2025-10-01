@@ -18,27 +18,27 @@ video_metadata:
 
 **1\. Make sure you've installed the necessary software.**
 
-Mac: [CrossPack](http://www.obdev.at/products/crosspack/index.html)
+Mac: {{% resource_link "023c7e28-445d-4ab8-8f05-0ea6e9ea52f4" "CrossPack" %}}
 
-Windows: [WinAVR](http://winavr.sourceforge.net/index.html)
+Windows: {{% resource_link "a5c8154d-7f13-47ad-bd48-6831e22075f6" "WinAVR" %}}
 
-Important Note for people running Windows: on Windows you will also have to install the driver for the USB programmer. If the driver does not successfully install automatically after you plug in the programmer, try downloading the latest libusb driver from [SourceForge](http://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/).
+Important Note for people running Windows: on Windows you will also have to install the driver for the USB programmer. If the driver does not successfully install automatically after you plug in the programmer, try downloading the latest libusb driver from {{% resource_link "b9947dfe-beb0-45a9-a4db-1f2ddf4285f4" "SourceForge" %}}.
 
 Unfortunately Windows 7 does not support the USB programmer we will be using, so if you have a machine with Windows 7 you should use the Mac computer in the high-low tech lab to do your programming.
 
-For windows Vista 64, you need to first install AVR Studio 4. then install WinAVR 20100110. Then, download msys-1.0-vista64.zip ([ZIP](https://courses.media.mit.edu/2010spring/mas962/2010/uploads/Main/msys-1.0-vista.zip)) and put that into your winavr/utils/bin directory. Then things should compile.
+For windows Vista 64, you need to first install AVR Studio 4. then install WinAVR 20100110. Then, download msys-1.0-vista64.zip ({{% resource_link "95d2fc1e-3913-412c-8777-3a32de8837e8" "ZIP" %}}) and put that into your winavr/utils/bin directory. Then things should compile.
 
 **2\. Get your materials together**
 
-[ATtiny13](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=ATTINY13V-10PU-ND) on a fabric PCB
+{{% resource_link "0dd85968-621f-4b0a-869d-a86d257f3870" "ATtiny13" %}} on a fabric PCB
 
-[AVRISP programmer](http://search.digikey.com/scripts/DkSearch/dksus.dll?Cat=2621880&k=avrisp) with homemade alligator clip attachment
+{{% resource_link "2b5783c2-e1b6-4168-a4b1-fe8907e84b81" "AVRISP programmer" %}} with homemade alligator clip attachment
 
 USB cable
 
 **3\. Download some code**
 
-Download and unzip NewTextilesAVR.zip ([ZIP](https://courses.media.mit.edu/2010spring/mas962/2010/uploads/Main/NewTextilesAVR.zip)) which contains all of the files you'll need. Put the NewTextilesAVR folder on your desktop.
+Download and unzip NewTextilesAVR.zip ({{% resource_link "99753630-95a6-4438-9f74-fa156e02d7a6" "ZIP" %}}) which contains all of the files you'll need. Put the NewTextilesAVR folder on your desktop.
 
 **4\. Open up a terminal window, a window that allows you to type out commands to send to your computer**
 
@@ -54,7 +54,7 @@ The cd stands for "change directory".
 
 **6\. Plug in your programmer and attach your circuit to your computer**
 
-Here is the pin layout diagram for the ATtiny13 chip – the miniature computer that we'll be using. The diagram is from the ATtiny13 datasheet ([PDF - 2.9MB](http://www.atmel.com/dyn/resources/prod_documents/doc2535.pdf)).
+Here is the pin layout diagram for the ATtiny13 chip – the miniature computer that we'll be using. The diagram is from the ATtiny13 datasheet ({{% resource_link "caf5d266-4408-4be9-8b84-fe37421c7198" "PDF - 2.9MB" %}}).
 
 {{< resource 6234ff23-46d3-ac37-1ce6-9d856ba8f1a2 >}}
 

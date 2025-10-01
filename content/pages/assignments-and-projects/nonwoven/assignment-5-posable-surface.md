@@ -27,7 +27,7 @@ There is an inherent problem with the parametric frenzy of architecture: one can
 
 {{< resource b0f813d5-1b87-57b6-603b-94cae8217fe6 >}}
 
-"Structural Oscillations” by [Gramazio & Kohler, Architecture and Digital Fabrication, ETH Zurich](http://www.dfab.arch.ethz.ch/web/e/forschung/142.html), in collaboration with Reto Geiser; Venice Bienalle XI, 2008. (Photo © Maris Mezulis. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse))
+"Structural Oscillations” by {{% resource_link "53c6c9c6-ff8c-4c9e-abc9-7bf779ae33b7" "Gramazio & Kohler, Architecture and Digital Fabrication, ETH Zurich" %}}, in collaboration with Reto Geiser; Venice Bienalle XI, 2008. (Photo © Maris Mezulis. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse))
 
 In order to create a malleable and posable fabric I set out to embed a metallic skeleton. I chose felt as a base material because it has a thickness that would allow for the embedment of the metallic grill necessary for the task.
 
