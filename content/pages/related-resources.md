@@ -14,45 +14,45 @@ video_metadata:
 ---
 ## Tutorials
 
-[Arduino home page](http://arduino.cc/)
+{{% resource_link "e98a555b-e3b3-4a92-a91f-c576cf3e45db" "Arduino home page" %}}
 
-[How to make felt fabric](https://www.feltandyarn.com/blog/tips/a-beginners-guide-to-how-to-felt-felting-techniques-101?srsltid=AfmBOoolwla1amBKnW-Pml1mw763lzD8zkL9UA0YSRIOfVA5Voe2NxBR)
+{{% resource_link "9b4649ce-5395-41bc-b47f-c7af35ffd0a5" "How to make felt fabric" %}}
 
-[How to fuse plastic bags into fabric](http://www.instructables.com/id/Fusing-Plastic-Bags-the-eclipse-way/)
+{{% resource_link "8812192e-6e88-418c-9655-795d000e8b78" "How to fuse plastic bags into fabric" %}}
 
 ## Where to Get Stuff
 
 ### Conductive Textiles
 
-[Less EMF](http://www.lessemf.com/fabric.html) – fabric, velcro, thread
+{{% resource_link "4ced446a-7289-49bc-8fdd-7854864efdf8" "Less EMF" %}} – fabric, velcro, thread
 
-[Block EMF](http://www.blockemf.com/) – fabric, velcro, thread
+{{% resource_link "83b3f245-73c2-4847-b5d2-ce4b6b36aea8" "Block EMF" %}} – fabric, velcro, thread
 
-[SparkFun](http://www.sparkfun.com/commerce/categories.php?c=135) – thread
+{{% resource_link "bd6f1a9f-f8ed-4336-a9bc-a9ceb4dd005e" "SparkFun" %}} – thread
 
-[Lame Lifesaver](http://members.shaw.ca/ubik/thread/order.html) – thread
+{{% resource_link "7641873a-b431-43db-97c5-e8e639f2f0b5" "Lame Lifesaver" %}} – thread
 
-[Fine Silver Products](http://www.fine-silver-productsnet.com/) – thread, fabric
+{{% resource_link "b591ee6c-f92f-4b11-8878-8e5473f888ed" "Fine Silver Products" %}} – thread, fabric
 
-[Tinsel Trading Company](http://www.tinseltrading.com/index.php?splashed=1) – vintage metal threads and fabric
+{{% resource_link "f2d75119-0361-4c6f-a92e-38fc8c09107b" "Tinsel Trading Company" %}} – vintage metal threads and fabric
 
 ### Conductive Textiles, Companies/Wholesalers
 
-[Bekaert](http://www.bekaert.com/)
+{{% resource_link "0ef38021-ae0b-4bde-b98b-226da909edb3" "Bekaert" %}}
 
-[X-static](http://www.x-staticfiber.com/)
+{{% resource_link "3a1cfe6a-976c-4f4d-b85a-55dadd926fbb" "X-static" %}}
 
-[Shieldex](http://www.shieldextrading.net/)
+{{% resource_link "37245b4c-1788-4960-b673-e4809ce867ac" "Shieldex" %}}
 
 ### Knitting Machine Yarn
 
-[Valley Alpaca Silk blend, 2/14](http://www.yarn.com/webs-knitting-crochet-yarns-valley-yarns/webs-knitting-yarns-valley-yarns-214-alpaca-silk/)
+{{% resource_link "9e803d69-81d2-40e4-8b90-008a50dff8df" "Valley Alpaca Silk blend, 2/14" %}}
 
-[Cotton Clouds Aurora Earth Cotton, 8/2](http://www.cottonclouds.com/shopping/yarn_info.asp?id=3&tab=cone&cat=&color=)
+{{% resource_link "7cd56f35-dc8a-420a-8243-55b1d8013839" "Cotton Clouds Aurora Earth Cotton, 8/2" %}}
 
 ### Cambridge/Boston Craft Stores
 
-[Mind's Eye Yarns](http://www.mindseyeyarns.com/) – fiber, yarn, spinning and knitting equipment
+{{% resource_link "a7be3879-dc1f-466e-9b82-b33273a989c6" "Mind's Eye Yarns" %}} – fiber, yarn, spinning and knitting equipment
 
 Windsor Button – yarn, sewing notions & findings - cheap and T-accessible
 
@@ -60,51 +60,51 @@ Windsor Button – yarn, sewing notions & findings - cheap and T-accessible
 
 Digi-Key
 
-- [ATtiny13](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=ATTINY13V-10PU-ND)
-- [AVRISP programmer](http://search.digikey.com/scripts/DkSearch/dksus.dll?Cat=2621880&k=avrisp)
+- {{% resource_link "0dd85968-621f-4b0a-869d-a86d257f3870" "ATtiny13" %}}
+- {{% resource_link "2b5783c2-e1b6-4168-a4b1-fe8907e84b81" "AVRISP programmer" %}}
 
-[AVR libc documentation](http://www.nongnu.org/avr-libc/user-manual/index.html)
+{{% resource_link "abab8836-8411-4870-b3f7-cad2a1039197" "AVR libc documentation" %}}
 
 ### Miscellaneous Electronics
 
-[CR2032 coin cell batteries](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=P189-ND)
+{{% resource_link "d82b6e2d-2a24-44c9-9bb8-a49dd3121b14" "CR2032 coin cell batteries" %}}
 
-[Thin insulated resistance wire](http://www.ec-securehost.com/PelicanWireCo.Inc./Insulated_Resistance_Wire.html) – recommended: 35 Gauge Nichrome 60 w/Heavy ML Enamel
+{{% resource_link "1faaa60f-d83a-45c4-b8cc-b96355cd60b6" "Thin insulated resistance wire" %}} – recommended: 35 Gauge Nichrome 60 w/Heavy ML Enamel
 
-[Fiber Optic Filament](https://thefiberopticstore.com/)
+{{% resource_link "ebca05d3-7f9b-42b8-86eb-1783981f164a" "Fiber Optic Filament" %}}
 
 ### Surface Mount LEDs
 
 Digi-Key
 
-- [White](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1737-1-ND)
-- [Green](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1136-1-ND)
-- [Blue](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1439-1-ND)
-- [Red](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1173-1-ND)
-- [Yellow](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=754-1144-1-ND)
+- {{% resource_link "e2a8ff76-75e3-4dab-be0e-2ea021b41f79" "White" %}}
+- {{% resource_link "03700ba1-6d8f-4a9b-b483-38ab6e1fe981" "Green" %}}
+- {{% resource_link "de5bbdda-466c-43f8-87ac-8babcc6cb583" "Blue" %}}
+- {{% resource_link "2ebc51d7-4f7c-4d30-97fe-73d3636af000" "Red" %}}
+- {{% resource_link "3f6994f6-997d-4110-a2dc-1727eaf641d2" "Yellow" %}}
 
 ### "Regular" 5mm LEDs
 
 Digi-Key
 
-- [Red](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1127-ND)
-- [Green](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1131-ND)
-- [Yellow](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1133-ND)
-- [Blue](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=C566C-BFS-CS0W0451-ND)
-- [White](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1772-ND)
+- {{% resource_link "7c420295-337c-44bd-8e1e-e54c38ee1493" "Red" %}}
+- {{% resource_link "6dc66478-25ab-42b5-82c8-a0758cc0c905" "Green" %}}
+- {{% resource_link "d2e5d642-7751-4801-8ca1-64483ae028cd" "Yellow" %}}
+- {{% resource_link "95ac4c9e-6d3f-48b9-9e86-61871d681aa5" "Blue" %}}
+- {{% resource_link "3a3e8008-1002-4bd2-8d3f-f530f0abf4f0" "White" %}}
 
 ### Motors
 
-[Electronic Goldmine](http://www.goldmine-elec-products.com/products.asp?dept=1107) – miniature pager (vibrator) motors
+{{% resource_link "eeb6558b-555b-4fe3-906d-158a2e7c1a69" "Electronic Goldmine" %}} – miniature pager (vibrator) motors
 
-[HobbyPartz](http://www.hobbypartz.com/kahaoubrmo11.html) – tiny cheap servos
+{{% resource_link "0843af79-eb81-4d7b-9ed0-842c4290a6da" "HobbyPartz" %}} – tiny cheap servos
 
 ## Miscellaneous Useful Links
 
-[Bar code generator](http://qrcode.kaywa.com/)
+{{% resource_link "ee6c348b-7ad3-40b0-8028-761c14bf7e8a" "Bar code generator" %}}
 
-[Fiber burn chart](http://www.ditzyprints.com/dpburnchart.html)
+{{% resource_link "adda97e0-b2ca-4dec-aef4-c865e9be5995" "Fiber burn chart" %}}
 
-[Wikipedia entry on textile measurements](http://en.wikipedia.org/wiki/Units_of_textile_measurement)
+{{% resource_link "03019d54-f5fd-49db-b586-d933e31f9f9a" "Wikipedia entry on textile measurements" %}}
 
-[Textile measurement converter](https://www.quiltersparadiseesc.com/Calculators/Fabric%20Measurement%20Conversion.php)
+{{% resource_link "610a233e-eeb5-45dc-b200-f0a5ed1c34c9" "Textile measurement converter" %}}

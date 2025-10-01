@@ -27,19 +27,19 @@ For this assignment you will work in teams, in collaboration with the *21W.789 C
 
 ### Arduino
 
-[Arduino Web site](http://arduino.cc/)
+{{% resource_link "e98a555b-e3b3-4a92-a91f-c576cf3e45db" "Arduino Web site" %}}
 
-[LilyPad Arduino Web site](https://docs.arduino.cc/retired/getting-started-guides/ArduinoLilyPadUSB/)
+{{% resource_link "ade62be1-c2ba-4f28-9612-b415a42f4dfb" "LilyPad Arduino Web site" %}}
 
-[Limor Fried's excellent Arduino tutorial](http://www.ladyada.net/learn/arduino/)
+{{% resource_link "b62398b1-c939-46f8-be8d-8f66fc09df3a" "Limor Fried's excellent Arduino tutorial" %}}
 
-[Buy a LilyPad Arduino](http://www.sparkfun.com/commerce/categories.php?c=135)
+{{% resource_link "bd6f1a9f-f8ed-4336-a9bc-a9ceb4dd005e" "Buy a LilyPad Arduino" %}}
 
-[Buy an Arduino mini](http://www.sparkfun.com/commerce/product_info.php?products_id=9220)
+{{% resource_link "e95084e6-b29b-49dc-aeb9-d9c065f6bd5f" "Buy an Arduino mini" %}}
 
-[Buy a Bluetooth module](http://www.sparkfun.com/commerce/product_info.php?products_id=9358)
+{{% resource_link "36f16460-92aa-42f6-b315-fd72a6b5ef9c" "Buy a Bluetooth module" %}}
 
-[Arduino pin mapping](http://www.arduino.cc/en/Hacking/PinMapping)
+{{% resource_link "302ee0ba-79eb-42dc-bc50-d755e137cfb7" "Arduino pin mapping" %}}
 
 ### Amarino: A Tool That Connects Arduino and Android
 
@@ -59,7 +59,7 @@ Mapping ATMega168 pins to Arduino pins. (Courtesy of Arduino.cc. Used with permi
 
 Circuit drawing in Adobe Illustrator format ({{% resource_link "8f67ceb3-909a-1090-fd0c-89727abbd8ca" "AI" %}})
 
-Code for ATmega168 microcontroller [(arduinoBootloader)](https://arduinobootloader.readthedocs.io/en/latest/index.html)
+Code for ATmega168 microcontroller {{% resource_link "5703453c-e47f-46fd-9f01-086d1c1c679b" "(arduinoBootloader)" %}}
 
 ## Supplies
 

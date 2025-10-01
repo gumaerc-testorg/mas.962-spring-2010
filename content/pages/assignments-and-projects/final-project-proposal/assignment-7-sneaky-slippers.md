@@ -32,7 +32,7 @@ Next: Return to {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignme
 
 {{< resource "b776a3f9-7dfc-93d0-65ba-b645fae2e24e" >}}
 
-The Sneaky Slippers concept. (Wool slippers photo © [The Wool Shack](http://frenchpressknits.blogspot.com/2009/10/happy-slipper-day.html). (c) The Wool Shack to (c) French Press Knits.)
+The Sneaky Slippers concept. (Wool slippers photo © {{% resource_link "048cae28-d44c-466b-be93-ccef62ce7ad2" "The Wool Shack" %}}. (c) The Wool Shack to (c) French Press Knits.)
 
 My concept for the final project is to create textile slippers that have integrated flexible circuitry that turns on LEDs on the toes of the slippers when you walk in them. I will use solar cells to recharge Lithium Ion batteries that will power the LEDs. They will be turned on using pressure-sensitive rubber switches in the soles of the slippers.
 

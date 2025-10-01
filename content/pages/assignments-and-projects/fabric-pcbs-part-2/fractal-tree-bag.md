@@ -56,7 +56,7 @@ Details of soldered and epoxied components.
 
 The tree motif was chosen because we wanted to integrate fractal patterns into the design. The fractal idea came from this website which talks about polygon fractals.
 
-- McManus, Jerry. "[Polygon Gardens](http://director-online.dasdeck.com/buildArticle.php?id=1119)." Director Online.
+- McManus, Jerry. "{{% resource_link "3bc51d8a-a876-4f9e-9fa8-67b913f29533" "Polygon Gardens" %}}." Director Online.
 
 The fractal tree was coded in Rhinoscript. The tree was laser cut from 3 separate iron on fabric layers. The first was the conductive fabric, the remaining two were satins.
 

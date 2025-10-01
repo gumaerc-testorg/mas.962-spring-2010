@@ -20,7 +20,7 @@ video_metadata:
 
 A sample of machine embroidery.
 
-We have a [Bernina Artista 630 Embroidery/Sewing Machine](http://www.berninausa.com/product_detail-n2-i13-sUS.html). You can also find more information about these steps on page 115 of the Bernina book.
+We have a {{% resource_link "12c93b98-45a7-4c3a-82b7-7b699c5a2612" "Bernina Artista 630 Embroidery/Sewing Machine" %}}. You can also find more information about these steps on page 115 of the Bernina book.
 
 **1\. Get your supplies together.**
 

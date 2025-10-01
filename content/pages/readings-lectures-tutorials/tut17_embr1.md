@@ -17,13 +17,13 @@ video_metadata:
 ---
 {{% resource_link "e974bd1a-9897-6b46-896a-13de54082f58" "Readings, Lectures & Tutorials Index" "#ses17" %}} | {{% resource_link "dac7dbe9-bb2e-33c6-6027-a326888523c0" "Embroidery Machine Tutorial, Part 2" %}} »
 
-We are using the [DRAWings4](http://www.drawstitch.com/index.php/Downloads/DRAWings_Evaluation/)® software package to transform drawings into embroideries for our [Bernina Artista 630 Embroidery/Sewing Machine](http://www.berninausa.com/product_detail-n2-i13-sUS.html).
+We are using the {{% resource_link "ffe7e516-e27e-4bbe-9d07-eafe29cd4b3f" "DRAWings4" %}}® software package to transform drawings into embroideries for our {{% resource_link "12c93b98-45a7-4c3a-82b7-7b699c5a2612" "Bernina Artista 630 Embroidery/Sewing Machine" %}}.
 
 **1\. Create the pattern you are going to embroider**
 
-For this example, I wrote a short program in [Processing](http://processing.org/) that generates a tree pattern and outputs this pattern as a pdf file.
+For this example, I wrote a short program in {{% resource_link "9503d95a-090b-4c40-af67-c9ee67b26a2f" "Processing" %}} that generates a tree pattern and outputs this pattern as a pdf file.
 
-You can find a beautiful assortment of processing projects (along with their code) on [Open Processing](http://www.openprocessing.org/).
+You can find a beautiful assortment of processing projects (along with their code) on {{% resource_link "7bbff4f2-9ba8-4c89-999d-bdc53601dc5e" "Open Processing" %}}.
 
 Here's my code: randomTree.zip. (Note: this code is no longer available.)
 

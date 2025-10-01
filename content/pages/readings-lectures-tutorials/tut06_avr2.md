@@ -104,6 +104,6 @@ To upload your edited code to your circuit, type the following command in Termin
 
 Example of edited blink.c program.
 
-For the official AVR C programming language reference see the [AVR libc documentation](http://www.nongnu.org/avr-libc/user-manual/index.html).
+For the official AVR C programming language reference see the {{% resource_link "abab8836-8411-4870-b3f7-cad2a1039197" "AVR libc documentation" %}}.
 
 « {{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR Programming, Part 1" %}} | {{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" %}}

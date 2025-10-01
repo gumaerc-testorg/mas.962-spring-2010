@@ -44,7 +44,7 @@ A coil of the Conductive Vine yarn.
 Construction
 ------------
 
-In my personal yarn collection, I had a roll of [Cascade Fixation](http://www.cascadeyarns.com/cascade-Fixation.htm), a cotton-elatic blend, which had a fair amount of stretch. I used this yarn to construct a narrow tube using the [i-cord](http://www.knitting-and.com/knitting/patterns/stitches/icord.htm) technique with size 3 needles. Since I used thin needles and a tight knitting technique, my resulting product had tight stitching and no visible holes.
+In my personal yarn collection, I had a roll of {{% resource_link "540b1285-58b5-4c15-a576-a93a7b53a11d" "Cascade Fixation" %}}, a cotton-elatic blend, which had a fair amount of stretch. I used this yarn to construct a narrow tube using the {{% resource_link "8a8e9a06-0603-4b6a-9d47-3815afe151e5" "i-cord" %}} technique with size 3 needles. Since I used thin needles and a tight knitting technique, my resulting product had tight stitching and no visible holes.
 
 {{< resource "fd393ecc-5121-9a91-28f7-4eeca8291942" >}}
 
